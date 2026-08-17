@@ -14,12 +14,12 @@
             "last_commit": "2026-04-14T14:08:18Z",
             "owner": "weareaisle",
             "repo": "nano-analyzer",
-            "stars": 307
+            "stars": 308
           }
         },
         {
           "node_type": "item",
-          "title": "seclab-taskflow-agent 🟢 — YAML-driven taskflow agent framework for triaging CodeQL/SAST alerts and filtering false positives. (GitHub Security Lab) (★ 221 · updated 2026-08-03)",
+          "title": "seclab-taskflow-agent 🟢 — YAML-driven taskflow agent framework for triaging CodeQL/SAST alerts and filtering false positives. (GitHub Security Lab) (★ 221 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -40,7 +40,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:39:59Z",
+            "last_commit": "2026-08-17T06:50:31Z",
             "owner": "GitHubSecurityLab",
             "repo": "seclab-taskflow-agent",
             "stars": 221
@@ -76,7 +76,7 @@
                 "last_commit": "2026-08-12T08:19:38Z",
                 "owner": "soctalk",
                 "repo": "soctalk",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
@@ -145,7 +145,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "SkillSpector 🟢 — Security scanner for AI-agent skills used by Claude Code, Codex CLI, Gemini CLI, and similar ecosystems; combines static analysis, AST/YARA/taint checks, optional LLM semantic review, MCP least-privilege/tool-poisoning checks, risk scoring, and SARIF/JSON/Markdown output. (NVIDIA) (★ 14,673 · updated 2026-08-15)",
+          "title": "SkillSpector 🟢 — Security scanner for AI-agent skills used by Claude Code, Codex CLI, Gemini CLI, and similar ecosystems; combines static analysis, AST/YARA/taint checks, optional LLM semantic review, MCP least-privilege/tool-poisoning checks, risk scoring, and SARIF/JSON/Markdown output. (NVIDIA) (★ 14,696 · updated 2026-08-15)",
           "description": null,
           "children": [
             {
@@ -159,22 +159,22 @@
                 "last_commit": "2026-08-04T04:50:35Z",
                 "owner": "cisco-ai-defense",
                 "repo": "skill-scanner",
-                "stars": 2435
+                "stars": 2443
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T09:10:56Z",
+            "last_commit": "2026-08-17T18:45:09Z",
             "owner": "NVIDIA",
             "repo": "SkillSpector",
-            "stars": 14677
+            "stars": 14708
           }
         },
         {
           "node_type": "item",
-          "title": "AI-Infra-Guard 🟢 — Full-stack AI red-teaming platform covering OpenClaw security scan, agent scan, skills scan, MCP scan, AI-infra vulnerability scan, and LLM jailbreak evaluation. (Tencent Zhuque Lab) (★ 4,512 · updated 2026-08-12)",
+          "title": "AI-Infra-Guard 🟢 — Full-stack AI red-teaming platform covering OpenClaw security scan, agent scan, skills scan, MCP scan, AI-infra vulnerability scan, and LLM jailbreak evaluation. (Tencent Zhuque Lab) (★ 4,514 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -195,15 +195,15 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T02:23:40Z",
+            "last_commit": "2026-08-17T09:25:45Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 4513
+            "stars": 4514
           }
         },
         {
           "node_type": "item",
-          "title": "agent-scan 🟢 — Security scanner for AI agents, MCP servers, and agent skills; the successor path for the original Invariant Labs mcp-scan work. (Snyk) (★ 2,912 · updated 2026-08-13)",
+          "title": "agent-scan 🟢 — Security scanner for AI agents, MCP servers, and agent skills; the successor path for the original Invariant Labs mcp-scan work. (Snyk) (★ 2,913 · updated 2026-08-13)",
           "description": null,
           "children": [
             {
@@ -214,7 +214,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-12T14:17:01Z",
+                "last_commit": "2026-08-17T03:35:46Z",
                 "owner": "garagon",
                 "repo": "aguara",
                 "stars": 86
@@ -224,15 +224,15 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T08:19:15Z",
+            "last_commit": "2026-08-17T13:39:18Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2913
+            "stars": 2915
           }
         },
         {
           "node_type": "item",
-          "title": "skill-scanner 🟠 — Scanner for agent skills combining YAML + YARA patterns, LLM-as-a-judge, and behavioral dataflow analysis (Codex / Cursor skill formats). (Cisco AI Defense) (★ 2,435 · updated 2026-08-04)",
+          "title": "skill-scanner 🟠 — Scanner for agent skills combining YAML + YARA patterns, LLM-as-a-judge, and behavioral dataflow analysis (Codex / Cursor skill formats). (Cisco AI Defense) (★ 2,440 · updated 2026-08-04)",
           "description": null,
           "children": [
             {
@@ -243,7 +243,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T16:58:53Z",
+                "last_commit": "2026-08-17T16:44:50Z",
                 "owner": "cisco-ai-defense",
                 "repo": "defenseclaw",
                 "stars": 819
@@ -256,12 +256,12 @@
             "last_commit": "2026-08-04T04:50:35Z",
             "owner": "cisco-ai-defense",
             "repo": "skill-scanner",
-            "stars": 2435
+            "stars": 2443
           }
         },
         {
           "node_type": "item",
-          "title": "AgentShield 🟢 — Security scanner for AI-agent configurations, MCP servers, hooks, and tool permissions with CLI, GitHub Action, and app workflows. (★ 1,068 · updated 2026-07-22)",
+          "title": "AgentShield 🟢 — Security scanner for AI-agent configurations, MCP servers, hooks, and tool permissions with CLI, GitHub Action, and app workflows. (★ 1,070 · updated 2026-07-22)",
           "description": null,
           "children": [
             {
@@ -285,7 +285,36 @@
             "last_commit": "2026-07-22T07:01:25Z",
             "owner": "affaan-m",
             "repo": "agentshield",
-            "stars": 1068
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-scanner 🟢⚠️ — Scanner for MCP servers and agentic tool surfaces, covering tools, prompts, resources, package risk, malware indicators, and deployment readiness. (Cisco AI Defense) (★ 1,037 · updated 2026-08-07)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Related: Cisco AI Defense – skill-scanner",
+              "description": "Snyk Agent Scan · aguara",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-04T04:50:35Z",
+                "owner": "cisco-ai-defense",
+                "repo": "skill-scanner",
+                "stars": 2443
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T21:39:43Z",
+            "owner": "cisco-ai-defense",
+            "repo": "mcp-scanner",
+            "stars": 1038
           }
         },
         {
@@ -304,35 +333,6 @@
         },
         {
           "node_type": "item",
-          "title": "mcp-scanner 🟢⚠️ — Scanner for MCP servers and agentic tool surfaces, covering tools, prompts, resources, package risk, malware indicators, and deployment readiness. (Cisco AI Defense) (★ 1,033 · updated 2026-08-07)",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Related: Cisco AI Defense – skill-scanner",
-              "description": "Snyk Agent Scan · aguara",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-04T04:50:35Z",
-                "owner": "cisco-ai-defense",
-                "repo": "skill-scanner",
-                "stars": 2435
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T21:39:43Z",
-            "owner": "cisco-ai-defense",
-            "repo": "mcp-scanner",
-            "stars": 1033
-          }
-        },
-        {
-          "node_type": "item",
           "title": "MCP Observatory 🟢🟠 — CI-native MCP-server testing tool for schema drift, safe attack simulation, record/replay verification, health scoring, and SARIF evidence before agents depend on a server. (KryptosAI) — note: the local evidence engine is open source; hosted telemetry intelligence, fleet workflows, and commercial ranking remain outside the package. (★ 176 · updated 2026-08-15)",
           "description": null,
           "children": [
@@ -347,7 +347,7 @@
                 "last_commit": "2026-08-14T21:39:43Z",
                 "owner": "cisco-ai-defense",
                 "repo": "mcp-scanner",
-                "stars": 1033
+                "stars": 1038
               }
             }
           ],
@@ -362,7 +362,7 @@
         },
         {
           "node_type": "item",
-          "title": "A2A Security Scanner 🟢 — CLI and PyPI scanner for Agent-to-Agent (A2A) agent cards, source code, registries, and live endpoints using specification validation, YARA rules, heuristics, endpoint testing, and an optional LLM analyzer. (Cisco AI Defense) (★ 162 · updated 2026-04-16)",
+          "title": "A2A Security Scanner 🟢 — CLI and PyPI scanner for Agent-to-Agent (A2A) agent cards, source code, registries, and live endpoints using specification validation, YARA rules, heuristics, endpoint testing, and an optional LLM analyzer. (Cisco AI Defense) (★ 163 · updated 2026-04-16)",
           "description": null,
           "children": [
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-14T21:39:43Z",
                 "owner": "cisco-ai-defense",
                 "repo": "mcp-scanner",
-                "stars": 1033
+                "stars": 1038
               }
             }
           ],
@@ -386,7 +386,7 @@
             "last_commit": "2026-04-16T15:50:37Z",
             "owner": "cisco-ai-defense",
             "repo": "a2a-scanner",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -420,7 +420,7 @@
         },
         {
           "node_type": "item",
-          "title": "mcp-armor 🟢 — Local MCP security scanner with auto-discovery for agentic IDE configs, tool/resource/prompt inventory, prompt-injection checks, rug-pull and tool-poisoning detection, baseline drift monitoring, and JSON/Markdown reports. (Aira Security) (★ 119 · updated 2026-03-27)",
+          "title": "mcp-armor 🟢 — Local MCP security scanner with auto-discovery for agentic IDE configs, tool/resource/prompt inventory, prompt-injection checks, rug-pull and tool-poisoning detection, baseline drift monitoring, and JSON/Markdown reports. (Aira Security) (★ 120 · updated 2026-03-27)",
           "description": null,
           "children": [
             {
@@ -431,10 +431,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T09:10:56Z",
+                "last_commit": "2026-08-17T18:45:09Z",
                 "owner": "NVIDIA",
                 "repo": "SkillSpector",
-                "stars": 14677
+                "stars": 14708
               }
             }
           ],
@@ -444,7 +444,7 @@
             "last_commit": "2026-03-27T09:08:57Z",
             "owner": "aira-security",
             "repo": "mcp-armor",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -460,17 +460,17 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T09:10:56Z",
+                "last_commit": "2026-08-17T18:45:09Z",
                 "owner": "NVIDIA",
                 "repo": "SkillSpector",
-                "stars": 14677
+                "stars": 14708
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-07T07:43:48Z",
+            "last_commit": "2026-08-17T11:49:03Z",
             "owner": "highflame-ai",
             "repo": "ramparts",
             "stars": 96
@@ -499,7 +499,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T14:17:01Z",
+            "last_commit": "2026-08-17T03:35:46Z",
             "owner": "garagon",
             "repo": "aguara",
             "stars": 86
@@ -518,17 +518,17 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T08:19:15Z",
+                "last_commit": "2026-08-17T13:39:18Z",
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 2913
+                "stars": 2915
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-09T19:37:20Z",
+            "last_commit": "2026-08-16T19:36:10Z",
             "owner": "inkog-io",
             "repo": "inkog",
             "stars": 28
@@ -607,7 +607,7 @@
                 "last_commit": "2026-08-14T21:39:43Z",
                 "owner": "cisco-ai-defense",
                 "repo": "mcp-scanner",
-                "stars": 1033
+                "stars": 1038
               }
             }
           ],
@@ -633,7 +633,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T14:25:18Z",
+                "last_commit": "2026-08-17T09:52:31Z",
                 "owner": "pezhik",
                 "repo": "skilltotal",
                 "stars": 1
@@ -651,7 +651,7 @@
         },
         {
           "node_type": "item",
-          "title": "skilltotal 🟢 — Offline deterministic static scanner (regex + AST, no LLM, no account) for AI components — agent skills/plugins, MCP servers, npm & PyPI packages, and git repos; flags supply-chain risk, dangerous capabilities, prompt-injection surfaces, MCP tool poisoning/shadowing, and data-exfiltration paths, maps to the OWASP Agentic Skills Top 10, and emits JSON + SARIF 2.1.0. (skilltotal.ai) (★ 1 · updated 2026-08-15)",
+          "title": "skilltotal 🟢 — Offline deterministic static scanner (regex + AST, no LLM, no account) for AI components — agent skills/plugins, MCP servers, npm & PyPI packages, and git repos; flags supply-chain risk, dangerous capabilities, prompt-injection surfaces, MCP tool poisoning/shadowing, and data-exfiltration paths, maps to the OWASP Agentic Skills Top 10, and emits JSON + SARIF 2.1.0. (skilltotal.ai) (★ 1 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -662,7 +662,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-12T14:17:01Z",
+                "last_commit": "2026-08-17T03:35:46Z",
                 "owner": "garagon",
                 "repo": "aguara",
                 "stars": 86
@@ -672,7 +672,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T14:25:18Z",
+            "last_commit": "2026-08-17T09:52:31Z",
             "owner": "pezhik",
             "repo": "skilltotal",
             "stars": 1
@@ -686,7 +686,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Anthropic-Cybersecurity-Skills 🟢 — Large community cybersecurity skill library for AI agents, mapped to MITRE ATT&CK, NIST CSF, MITRE ATLAS, D3FEND, and NIST AI RMF. — note: independent community project, not affiliated with Anthropic. (★ 27,919 · updated 2026-08-08)",
+          "title": "Anthropic-Cybersecurity-Skills 🟢 — Large community cybersecurity skill library for AI agents, mapped to MITRE ATT&CK, NIST CSF, MITRE ATLAS, D3FEND, and NIST AI RMF. — note: independent community project, not affiliated with Anthropic. (★ 28,060 · updated 2026-08-08)",
           "description": null,
           "children": [
             {
@@ -700,7 +700,7 @@
                 "last_commit": "2026-04-08T14:45:56Z",
                 "owner": "utkusen",
                 "repo": "sast-skills",
-                "stars": 1276
+                "stars": 1277
               }
             }
           ],
@@ -710,12 +710,12 @@
             "last_commit": "2026-08-08T14:55:19Z",
             "owner": "mukul975",
             "repo": "Anthropic-Cybersecurity-Skills",
-            "stars": 27962
+            "stars": 28273
           }
         },
         {
           "node_type": "item",
-          "title": "Agent Governance Toolkit 🟢 — Multi-language toolkit for policy-enforced agent tool calls and audit records, with optional identity, MCP-gateway, sandboxing, reliability, and compliance components. (Microsoft) — note: official public preview; APIs and deployment patterns may change before general availability. (★ 5,953 · updated 2026-08-12)",
+          "title": "Agent Governance Toolkit 🟢 — Multi-language toolkit for policy-enforced agent tool calls and audit records, with optional identity, MCP-gateway, sandboxing, reliability, and compliance components. (Microsoft) — note: official public preview; APIs and deployment patterns may change before general availability. (★ 5,962 · updated 2026-08-12)",
           "description": null,
           "children": [
             {
@@ -726,7 +726,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T07:08:59Z",
+                "last_commit": "2026-08-17T07:19:27Z",
                 "owner": "Agent-Threat-Rule",
                 "repo": "agent-threat-rules",
                 "stars": 371
@@ -739,12 +739,12 @@
             "last_commit": "2026-08-14T05:17:10Z",
             "owner": "microsoft",
             "repo": "agent-governance-toolkit",
-            "stars": 5955
+            "stars": 5964
           }
         },
         {
           "node_type": "item",
-          "title": "Claude-BugHunter 🟢 — Claude Code / agent-skill bundle for authorized bug hunting and external red-team workflows across web, API, identity, cloud, recon, reporting, Burp MCP, slash commands, and the cbh CLI. — note: skill bundle and workflow knowledge base, not a standalone scanner. (★ 3,616 · updated 2026-08-16)",
+          "title": "Claude-BugHunter 🟢 — Claude Code / agent-skill bundle for authorized bug hunting and external red-team workflows across web, API, identity, cloud, recon, reporting, Burp MCP, slash commands, and the cbh CLI. — note: skill bundle and workflow knowledge base, not a standalone scanner. (★ 3,630 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -758,17 +758,17 @@
                 "last_commit": "2026-04-08T14:45:56Z",
                 "owner": "utkusen",
                 "repo": "sast-skills",
-                "stars": 1276
+                "stars": 1277
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:52:08Z",
+            "last_commit": "2026-08-17T05:01:10Z",
             "owner": "elementalsouls",
             "repo": "Claude-BugHunter",
-            "stars": 3621
+            "stars": 3636
           }
         },
         {
@@ -787,7 +787,7 @@
                 "last_commit": "2026-08-14T21:39:43Z",
                 "owner": "cisco-ai-defense",
                 "repo": "mcp-scanner",
-                "stars": 1033
+                "stars": 1038
               }
             }
           ],
@@ -802,7 +802,7 @@
         },
         {
           "node_type": "item",
-          "title": "AgentDojo 🟢🔬 — Benchmark environment for prompt-injection attacks and defenses in tool-using LLM agents. (★ 749 · updated 2026-06-02)",
+          "title": "AgentDojo 🟢🔬 — Benchmark environment for prompt-injection attacks and defenses in tool-using LLM agents. (★ 753 · updated 2026-06-02)",
           "description": null,
           "children": [
             {
@@ -826,12 +826,12 @@
             "last_commit": "2026-06-02T10:01:31Z",
             "owner": "ethz-spylab",
             "repo": "agentdojo",
-            "stars": 751
+            "stars": 754
           }
         },
         {
           "node_type": "item",
-          "title": "AI Security Verification Standard (AISVS) 🔬⚠️ — Stable verification standard defining testable security requirements for AI applications across model lifecycle, supply chain, data handling, agentic systems, and MCP integrations. (OWASP) — note: security standard and checklist, not an executable scanner; share-alike terms apply to adapted material. (★ 428 · updated 2026-07-30)",
+          "title": "AI Security Verification Standard (AISVS) 🔬⚠️ — Stable verification standard defining testable security requirements for AI applications across model lifecycle, supply chain, data handling, agentic systems, and MCP integrations. (OWASP) — note: security standard and checklist, not an executable scanner; share-alike terms apply to adapted material. (★ 429 · updated 2026-07-30)",
           "description": null,
           "children": [
             {
@@ -855,12 +855,12 @@
             "last_commit": "2026-07-30T05:35:13Z",
             "owner": "OWASP",
             "repo": "AISVS",
-            "stars": 428
+            "stars": 429
           }
         },
         {
           "node_type": "item",
-          "title": "agent-threat-rules (ATR) 🟢 — Open, versioned, machine-readable detection rules for AI-agent threats (prompt injection, tool poisoning, MCP attacks, and skill compromise) — \"Sigma for agents\"; 768 rules across 10 categories with integrations for Microsoft AGT, Cisco AI Defense, MISP, OWASP, FINOS, and SigmaHQ. (★ 371 · updated 2026-08-16)",
+          "title": "agent-threat-rules (ATR) 🟢 — Open, versioned, machine-readable detection rules for AI-agent threats (prompt injection, tool poisoning, MCP attacks, and skill compromise) — \"Sigma for agents\"; 768 rules across 10 categories with integrations for Microsoft AGT, Cisco AI Defense, MISP, OWASP, FINOS, and SigmaHQ. (★ 371 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -881,7 +881,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T07:08:59Z",
+            "last_commit": "2026-08-17T07:19:27Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 371
@@ -889,7 +889,7 @@
         },
         {
           "node_type": "item",
-          "title": "Agent Security Bench (ASB) 🟢🔬 — Official ICLR 2025 benchmark for evaluating attacks and defenses in LLM-based agents across ten scenarios, including direct and indirect prompt injection, memory poisoning, and defensive strategies. — note: research benchmark rather than a production control; reproducing evaluations requires configured target and evaluator models. (★ 284 · updated 2026-04-16)",
+          "title": "Agent Security Bench (ASB) 🟢🔬 — Official ICLR 2025 benchmark for evaluating attacks and defenses in LLM-based agents across ten scenarios, including direct and indirect prompt injection, memory poisoning, and defensive strategies. — note: research benchmark rather than a production control; reproducing evaluations requires configured target and evaluator models. (★ 285 · updated 2026-04-16)",
           "description": null,
           "children": [
             {
@@ -903,7 +903,7 @@
                 "last_commit": "2026-06-02T10:01:31Z",
                 "owner": "ethz-spylab",
                 "repo": "agentdojo",
-                "stars": 751
+                "stars": 754
               }
             }
           ],
@@ -913,7 +913,7 @@
             "last_commit": "2026-04-16T20:53:34Z",
             "owner": "agiresearch",
             "repo": "ASB",
-            "stars": 284
+            "stars": 285
           }
         },
         {
@@ -929,10 +929,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T09:10:56Z",
+                "last_commit": "2026-08-17T18:45:09Z",
                 "owner": "NVIDIA",
                 "repo": "SkillSpector",
-                "stars": 14677
+                "stars": 14708
               }
             }
           ],
@@ -961,7 +961,7 @@
                 "last_commit": "2026-06-02T10:01:31Z",
                 "owner": "ethz-spylab",
                 "repo": "agentdojo",
-                "stars": 751
+                "stars": 754
               }
             }
           ],
@@ -1011,7 +1011,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "microsandbox 🟢 — Local-first, microVM-backed programmable sandboxes for AI agents with SDKs, CLI, MCP support, and rootless hardware isolation. (★ 7,548 · updated 2026-08-16)",
+          "title": "microsandbox 🟢 — Local-first, microVM-backed programmable sandboxes for AI agents with SDKs, CLI, MCP support, and rootless hardware isolation. (★ 7,569 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -1032,15 +1032,15 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T16:46:21Z",
+            "last_commit": "2026-08-17T19:04:23Z",
             "owner": "superradcompany",
             "repo": "microsandbox",
-            "stars": 7552
+            "stars": 7570
           }
         },
         {
           "node_type": "item",
-          "title": "AIO Sandbox 🟢⚠️ — All-in-one Docker workspace for AI agents with browser, shell, file, code-execution, MCP, and VSCode interfaces, plus API-key/JWT controls and private-deployment guidance. — note: the public repository ships SDKs, integrations, and docs rather than the core runtime service; official Chromium-enabled deployments use . Treat it as a trusted execution environment, not a hardened isolation boundary; use separate VMs or a hardened runtime plus network policy for hostile workloads. (★ 5,719 · updated 2026-07-02)",
+          "title": "AIO Sandbox 🟢⚠️ — All-in-one Docker workspace for AI agents with browser, shell, file, code-execution, MCP, and VSCode interfaces, plus API-key/JWT controls and private-deployment guidance. — note: the public repository ships SDKs, integrations, and docs rather than the core runtime service; official Chromium-enabled deployments use . Treat it as a trusted execution environment, not a hardened isolation boundary; use separate VMs or a hardened runtime plus network policy for hostile workloads. (★ 5,727 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -1051,25 +1051,25 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T02:44:17Z",
+                "last_commit": "2026-08-17T17:02:20Z",
                 "owner": "kubernetes-sigs",
                 "repo": "agent-sandbox",
-                "stars": 3535
+                "stars": 3550
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-02T16:05:37Z",
+            "last_commit": "2026-08-17T07:49:03Z",
             "owner": "agent-infra",
             "repo": "sandbox",
-            "stars": 5721
+            "stars": 5731
           }
         },
         {
           "node_type": "item",
-          "title": "Agentgateway 🟢 — Agent-native proxy and gateway for MCP and A2A traffic with OAuth/JWT/API-key authentication, CEL-based RBAC policies, TLS, rate limiting, and OpenTelemetry observability. (★ 4,373 · updated 2026-08-14)",
+          "title": "Agentgateway 🟢 — Agent-native proxy and gateway for MCP and A2A traffic with OAuth/JWT/API-key authentication, CEL-based RBAC policies, TLS, rate limiting, and OpenTelemetry observability. (★ 4,385 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -1090,15 +1090,15 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T19:46:39Z",
+            "last_commit": "2026-08-17T12:17:34Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4376
+            "stars": 4392
           }
         },
         {
           "node_type": "item",
-          "title": "nono 🟢 — Least-privilege sandbox for AI coding agents that isolates the agent and delegated tools with composable filesystem, network, credential-proxy, and command policies. (NoLabs) — note: APIs are still stabilizing ahead of the 1.0 release; review every pulled profile before use. (★ 3,672 · updated 2026-08-13)",
+          "title": "nono 🟢 — Least-privilege sandbox for AI coding agents that isolates the agent and delegated tools with composable filesystem, network, credential-proxy, and command policies. (NoLabs) — note: APIs are still stabilizing ahead of the 1.0 release; review every pulled profile before use. (★ 3,687 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -1109,25 +1109,25 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T16:46:21Z",
+                "last_commit": "2026-08-17T19:04:23Z",
                 "owner": "superradcompany",
                 "repo": "microsandbox",
-                "stars": 7552
+                "stars": 7570
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T19:03:36Z",
+            "last_commit": "2026-08-17T17:59:15Z",
             "owner": "nolabs-ai",
             "repo": "nono",
-            "stars": 3676
+            "stars": 3694
           }
         },
         {
           "node_type": "item",
-          "title": "Kubernetes Agent Sandbox 🟢 — Kubernetes CRDs and controllers for isolated, stateful singleton agent workloads, delegating low-level isolation to configured runtimes such as gVisor or Kata Containers. (Kubernetes SIG Apps) — note: sandbox orchestrator, not an isolation runtime itself; security depends on the selected RuntimeClass, network policy, and workload configuration. (★ 3,532 · updated 2026-08-16)",
+          "title": "Kubernetes Agent Sandbox 🟢 — Kubernetes CRDs and controllers for isolated, stateful singleton agent workloads, delegating low-level isolation to configured runtimes such as gVisor or Kata Containers. (Kubernetes SIG Apps) — note: sandbox orchestrator, not an isolation runtime itself; security depends on the selected RuntimeClass, network policy, and workload configuration. (★ 3,544 · updated 2026-08-16)",
           "description": null,
           "children": [
             {
@@ -1138,25 +1138,25 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-02T16:05:37Z",
+                "last_commit": "2026-08-17T07:49:03Z",
                 "owner": "agent-infra",
                 "repo": "sandbox",
-                "stars": 5721
+                "stars": 5731
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T02:44:17Z",
+            "last_commit": "2026-08-17T17:02:20Z",
             "owner": "kubernetes-sigs",
             "repo": "agent-sandbox",
-            "stars": 3535
+            "stars": 3550
           }
         },
         {
           "node_type": "item",
-          "title": "onecli 🟢 — Credential gateway and encrypted vault for AI agents; injects real API credentials at the gateway so agents only see placeholder keys. (★ 3,095 · updated 2026-07-31)",
+          "title": "onecli 🟢 — Credential gateway and encrypted vault for AI agents; injects real API credentials at the gateway so agents only see placeholder keys. (★ 3,104 · updated 2026-07-31)",
           "description": null,
           "children": [
             {
@@ -1180,12 +1180,12 @@
             "last_commit": "2026-08-15T01:28:44Z",
             "owner": "onecli",
             "repo": "onecli",
-            "stars": 3097
+            "stars": 3105
           }
         },
         {
           "node_type": "item",
-          "title": "tirith 🟢⚠️ — Terminal guard for developers and AI coding agents that intercepts homograph and terminal-injection tricks, obfuscated execution chains, pipe-to-shell patterns, credential exfiltration, and malicious skill/config files. — note: AGPL-3.0 with a separate commercial license; shell interception is a host-side guard, not a substitute for sandboxing or least-privilege tool access. (★ 2,663 · updated 2026-08-13)",
+          "title": "tirith 🟢⚠️ — Terminal guard for developers and AI coding agents that intercepts homograph and terminal-injection tricks, obfuscated execution chains, pipe-to-shell patterns, credential exfiltration, and malicious skill/config files. — note: AGPL-3.0 with a separate commercial license; shell interception is a host-side guard, not a substitute for sandboxing or least-privilege tool access. (★ 2,664 · updated 2026-08-13)",
           "description": null,
           "children": [
             {
@@ -1196,25 +1196,25 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-15T19:03:36Z",
+                "last_commit": "2026-08-17T17:59:15Z",
                 "owner": "nolabs-ai",
                 "repo": "nono",
-                "stars": 3676
+                "stars": 3694
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T10:16:10Z",
+            "last_commit": "2026-08-17T12:39:51Z",
             "owner": "sheeki03",
             "repo": "tirith",
-            "stars": 2663
+            "stars": 2665
           }
         },
         {
           "node_type": "item",
-          "title": "ToolHive 🟢 — Platform for running MCP servers in isolated containers with per-request identity/access policy, registry and gateway workflows, audit logs, Kubernetes operator support, and observability hooks. (Stacklok) (★ 2,016 · updated 2026-08-14)",
+          "title": "ToolHive 🟢 — Platform for running MCP servers in isolated containers with per-request identity/access policy, registry and gateway workflows, audit logs, Kubernetes operator support, and observability hooks. (Stacklok) (★ 2,019 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -1225,25 +1225,25 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T16:46:21Z",
+                "last_commit": "2026-08-17T19:04:23Z",
                 "owner": "superradcompany",
                 "repo": "microsandbox",
-                "stars": 7552
+                "stars": 7570
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T17:15:38Z",
+            "last_commit": "2026-08-17T19:04:27Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2017
+            "stars": 2022
           }
         },
         {
           "node_type": "item",
-          "title": "ADR 🟢🔬 — Agentic AI Detection and Response system combining cross-client agent telemetry, ADR-Bench security scenarios, and a dual-agent detector for suspicious intent, tool use, and execution traces. (Uber) — note: deployed at Uber and published with an MLSys 2026 paper; the open release includes the Sensor, benchmark, and Detector, but not ADR Prevention or the offline ADR Explorer. Default detector configurations require model-provider credentials. (★ 1,435 · updated 2026-08-10)",
+          "title": "ADR 🟢🔬 — Agentic AI Detection and Response system combining cross-client agent telemetry, ADR-Bench security scenarios, and a dual-agent detector for suspicious intent, tool use, and execution traces. (Uber) — note: deployed at Uber and published with an MLSys 2026 paper; the open release includes the Sensor, benchmark, and Detector, but not ADR Prevention or the offline ADR Explorer. Default detector configurations require model-provider credentials. (★ 1,442 · updated 2026-08-16)",
           "description": null,
           "children": [
             {
@@ -1254,20 +1254,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T18:55:45Z",
+                "last_commit": "2026-08-17T19:00:33Z",
                 "owner": "luckyPipewrench",
                 "repo": "pipelock",
-                "stars": 796
+                "stars": 798
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:00:32Z",
+            "last_commit": "2026-08-16T23:02:30Z",
             "owner": "uber",
             "repo": "ADR",
-            "stars": 1435
+            "stars": 1445
           }
         },
         {
@@ -1293,15 +1293,15 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T06:07:00Z",
+            "last_commit": "2026-08-17T06:09:16Z",
             "owner": "prompt-security",
             "repo": "clawsec",
-            "stars": 1083
+            "stars": 1084
           }
         },
         {
           "node_type": "item",
-          "title": "defenseclaw 🟠 — Enforcement and evidence layer for agentic deployments: static CodeGuard checks, sandboxing, registry ingestion with SSRF guards, and audit/observability. (Cisco AI Defense) (★ 819 · updated 2026-08-14)",
+          "title": "defenseclaw 🟠 — Enforcement and evidence layer for agentic deployments: static CodeGuard checks, sandboxing, registry ingestion with SSRF guards, and audit/observability. (Cisco AI Defense) (★ 819 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -1315,14 +1315,14 @@
                 "last_commit": "2026-08-04T04:50:35Z",
                 "owner": "cisco-ai-defense",
                 "repo": "skill-scanner",
-                "stars": 2435
+                "stars": 2443
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T16:58:53Z",
+            "last_commit": "2026-08-17T16:44:50Z",
             "owner": "cisco-ai-defense",
             "repo": "defenseclaw",
             "stars": 819
@@ -1330,7 +1330,7 @@
         },
         {
           "node_type": "item",
-          "title": "Pipelock 🟢 — AI-agent firewall and verifiable egress-control layer mediating HTTP, WebSocket, CONNECT, MCP, and A2A traffic to detect prompt injection, secret exfiltration, SSRF, and suspicious outbound actions. — note: open-source core is Apache-2.0; commercial reporting/features are also advertised. (★ 796 · updated 2026-08-16)",
+          "title": "Pipelock 🟢 — AI-agent firewall and verifiable egress-control layer mediating HTTP, WebSocket, CONNECT, MCP, and A2A traffic to detect prompt injection, secret exfiltration, SSRF, and suspicious outbound actions. — note: open-source core is Apache-2.0; commercial reporting/features are also advertised. (★ 796 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -1341,25 +1341,25 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T17:15:38Z",
+                "last_commit": "2026-08-17T19:04:27Z",
                 "owner": "stacklok",
                 "repo": "toolhive",
-                "stars": 2017
+                "stars": 2022
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T18:55:45Z",
+            "last_commit": "2026-08-17T19:00:33Z",
             "owner": "luckyPipewrench",
             "repo": "pipelock",
-            "stars": 796
+            "stars": 798
           }
         },
         {
           "node_type": "item",
-          "title": "Arcjet Guard 🟢🟠 — JavaScript runtime guard for AI-agent tool calls and MCP handlers, with prompt-injection detection, sensitive-data detection/redaction, and custom local policy rules. (Arcjet) — note: open SDK packages integrate with Arcjet's hosted platform; assess the service, account, and data-processing requirements for the protections you enable. (★ 680 · updated 2026-08-15)",
+          "title": "Arcjet Guard 🟢🟠 — JavaScript runtime guard for AI-agent tool calls and MCP handlers, with prompt-injection detection, sensitive-data detection/redaction, and custom local policy rules. (Arcjet) — note: open SDK packages integrate with Arcjet's hosted platform; assess the service, account, and data-processing requirements for the protections you enable. (★ 681 · updated 2026-08-15)",
           "description": null,
           "children": [
             {
@@ -1373,7 +1373,7 @@
                 "last_commit": "2026-07-08T23:58:40Z",
                 "owner": "protectai",
                 "repo": "llm-guard",
-                "stars": 3201
+                "stars": 3202
               }
             }
           ],
@@ -1399,20 +1399,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T16:46:21Z",
+                "last_commit": "2026-08-17T19:04:23Z",
                 "owner": "superradcompany",
                 "repo": "microsandbox",
-                "stars": 7552
+                "stars": 7570
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T04:01:29Z",
+            "last_commit": "2026-08-17T16:21:45Z",
             "owner": "h5i-dev",
             "repo": "h5i",
-            "stars": 531
+            "stars": 533
           }
         },
         {
@@ -1446,13 +1446,13 @@
         },
         {
           "node_type": "item",
-          "title": "emisar 🟠⚠️ — Agent-infrastructure control plane that exposes declared, typed actions through MCP, applies policy and approval gates before dispatch, revalidates calls on an outbound-only host runner, and records separate control-plane and host audit trails. — note: runner, MCP bridge, and packs are Apache-2.0; the hosted portal/control plane is BSL-1.1 and converts to Apache-2.0 on 2029-07-26. Connecting a runner requires an emisar account and outbound HTTPS to the control plane. (★ 416 · updated 2026-08-15)",
+          "title": "emisar 🟠⚠️ — Agent-infrastructure control plane that exposes declared, typed actions through MCP, applies policy and approval gates before dispatch, revalidates calls on an outbound-only host runner, and records separate control-plane and host audit trails. — note: runner, MCP bridge, and packs are Apache-2.0; the hosted portal/control plane is BSL-1.1 and converts to Apache-2.0 on 2029-07-26. Connecting a runner requires an emisar account and outbound HTTPS to the control plane. (★ 416 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-15T00:28:01Z",
+            "last_commit": "2026-08-17T18:44:29Z",
             "owner": "AndrewDryga",
             "repo": "emisar",
             "stars": 416
@@ -1471,10 +1471,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T17:15:38Z",
+                "last_commit": "2026-08-17T19:04:27Z",
                 "owner": "stacklok",
                 "repo": "toolhive",
-                "stars": 2017
+                "stars": 2022
               }
             }
           ],
@@ -1489,7 +1489,7 @@
         },
         {
           "node_type": "item",
-          "title": "Prismor 🟢 — Self-hosted runtime control plane for coding agents with pre-tool-call hooks, policy-driven observe/approve/block decisions, an MCP gateway, secret and egress controls, and tamper-evident audit evidence. (★ 290 · updated 2026-08-16)",
+          "title": "Prismor 🟢 — Self-hosted runtime control plane for coding agents with pre-tool-call hooks, policy-driven observe/approve/block decisions, an MCP gateway, secret and egress controls, and tamper-evident audit evidence. (★ 291 · updated 2026-08-16)",
           "description": null,
           "children": [
             {
@@ -1510,10 +1510,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:58:54Z",
+            "last_commit": "2026-08-17T13:14:29Z",
             "owner": "PrismorSec",
             "repo": "prismor",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -1529,10 +1529,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T17:15:38Z",
+                "last_commit": "2026-08-17T19:04:27Z",
                 "owner": "stacklok",
                 "repo": "toolhive",
-                "stars": 2017
+                "stars": 2022
               }
             }
           ],
@@ -1561,7 +1561,7 @@
                 "last_commit": "2026-08-14T21:39:43Z",
                 "owner": "cisco-ai-defense",
                 "repo": "mcp-scanner",
-                "stars": 1033
+                "stars": 1038
               }
             }
           ],
@@ -1585,12 +1585,12 @@
             "last_commit": "2026-08-16T16:50:39Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
-            "stars": 126
+            "stars": 125
           }
         },
         {
           "node_type": "item",
-          "title": "DvalinCode 🟢 — Local-first AI coding agent with runtime governance controls: org/repo policy gates for tools, models, MCP servers, paths, and commands, plus provider/shell/MCP egress controls and hash-chained audit logs. — note: young project with limited independent adoption signal. (★ 112 · updated 2026-08-11)",
+          "title": "DvalinCode 🟢 — Local-first AI coding agent with runtime governance controls: org/repo policy gates for tools, models, MCP servers, paths, and commands, plus provider/shell/MCP egress controls and hash-chained audit logs. — note: young project with limited independent adoption signal. (★ 112 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -1601,17 +1601,17 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T04:01:29Z",
+                "last_commit": "2026-08-17T16:21:45Z",
                 "owner": "h5i-dev",
                 "repo": "h5i",
-                "stars": 531
+                "stars": 533
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T08:26:42Z",
+            "last_commit": "2026-08-17T06:08:06Z",
             "owner": "arthurpanhku",
             "repo": "dvalincode",
             "stars": 112
@@ -1659,10 +1659,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T18:55:45Z",
+                "last_commit": "2026-08-17T19:00:33Z",
                 "owner": "luckyPipewrench",
                 "repo": "pipelock",
-                "stars": 796
+                "stars": 798
               }
             }
           ],
@@ -1673,6 +1673,35 @@
             "owner": "agent-defense",
             "repo": "parallax",
             "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xaidr 🟢 — In-process runtime security sensor for AI agents that inspects input, tool calls, output, and agent-to-agent envelopes inside the agent process, with structured shell-command classification, YAML policy, privilege tiers, an opt-in circuit breaker, and OpenTelemetry export. (Delphi Security) — note: early-stage in-process sensor, not an isolation boundary; monitor mode is the default and unexpected scan failures fail open while emitting degraded telemetry. Published detection and false-positive figures are project-reported on its committed corpus. (★ 22 · updated 2026-08-17)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Related: agentguard",
+              "description": "defenseclaw",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-06-25T10:06:08Z",
+                "owner": "GoPlusSecurity",
+                "repo": "agentguard",
+                "stars": 456
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T15:28:54Z",
+            "owner": "delphisecurity",
+            "repo": "xaidr",
+            "stars": 22
           }
         },
         {
@@ -1702,17 +1731,17 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T18:55:45Z",
+                "last_commit": "2026-08-17T19:00:33Z",
                 "owner": "luckyPipewrench",
                 "repo": "pipelock",
-                "stars": 796
+                "stars": 798
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T11:29:51Z",
+            "last_commit": "2026-08-17T14:01:30Z",
             "owner": "ProvablyAI",
             "repo": "sourcerykit",
             "stars": 18
@@ -1740,7 +1769,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Adversarial Robustness Toolbox (ART) 🟢 — Flagship machine-learning security library for evaluating and defending models against evasion, poisoning, extraction, and inference attacks across major ML frameworks. (LF AI & Data / IBM) (★ 6,178 · updated 2025-11-13)",
+          "title": "Adversarial Robustness Toolbox (ART) 🟢 — Flagship machine-learning security library for evaluating and defending models against evasion, poisoning, extraction, and inference attacks across major ML frameworks. (LF AI & Data / IBM) (★ 6,179 · updated 2025-11-13)",
           "description": null,
           "children": [
             {
@@ -1764,7 +1793,7 @@
             "last_commit": "2025-12-12T07:01:28Z",
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6178
+            "stars": 6179
           }
         },
         {
@@ -1783,7 +1812,7 @@
                 "last_commit": "2025-12-12T07:01:28Z",
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6178
+                "stars": 6179
               }
             }
           ],
@@ -1809,7 +1838,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T13:32:58Z",
+                "last_commit": "2026-08-17T08:25:52Z",
                 "owner": "DataDog",
                 "repo": "malicious-software-packages-dataset",
                 "stars": 372
@@ -1819,7 +1848,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:01:58Z",
+            "last_commit": "2026-08-17T09:19:05Z",
             "owner": "DataDog",
             "repo": "guarddog",
             "stars": 1184
@@ -1867,10 +1896,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T16:10:58Z",
+                "last_commit": "2026-08-17T14:33:02Z",
                 "owner": "ossf",
                 "repo": "malicious-packages",
-                "stars": 598
+                "stars": 599
               }
             }
           ],
@@ -2000,7 +2029,7 @@
         },
         {
           "node_type": "item",
-          "title": "malicious-software-packages-dataset 🟢🔬 — Human-vetted dataset of malicious software packages across npm, PyPI, IDE extensions, and AI Skills, useful for detector training and evaluation. (Datadog Security Labs) — note: contains real malware samples; Datadog notes selection bias because many samples were identified by GuardDog. (★ 371 · updated 2026-08-14)",
+          "title": "malicious-software-packages-dataset 🟢🔬 — Human-vetted dataset of malicious software packages across npm, PyPI, IDE extensions, and AI Skills, useful for detector training and evaluation. (Datadog Security Labs) — note: contains real malware samples; Datadog notes selection bias because many samples were identified by GuardDog. (★ 372 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -2011,7 +2040,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T14:01:58Z",
+                "last_commit": "2026-08-17T09:19:05Z",
                 "owner": "DataDog",
                 "repo": "guarddog",
                 "stars": 1184
@@ -2021,7 +2050,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:32:58Z",
+            "last_commit": "2026-08-17T08:25:52Z",
             "owner": "DataDog",
             "repo": "malicious-software-packages-dataset",
             "stars": 372
@@ -2043,7 +2072,7 @@
                 "last_commit": "2025-12-12T07:01:28Z",
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6178
+                "stars": 6179
               }
             }
           ],
@@ -2072,7 +2101,7 @@
                 "last_commit": "2026-04-08T14:45:56Z",
                 "owner": "utkusen",
                 "repo": "sast-skills",
-                "stars": 1276
+                "stars": 1277
               }
             }
           ],
@@ -2127,7 +2156,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T13:32:58Z",
+                "last_commit": "2026-08-17T08:25:52Z",
                 "owner": "DataDog",
                 "repo": "malicious-software-packages-dataset",
                 "stars": 372
@@ -2156,7 +2185,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T16:37:24Z",
+                "last_commit": "2026-08-17T03:51:16Z",
                 "owner": "Lab700xOrg",
                 "repo": "aisbom",
                 "stars": 76
@@ -2174,7 +2203,7 @@
         },
         {
           "node_type": "item",
-          "title": "AIsbom 🟢 — AI software bill of materials tooling for AI/ML supply-chain inventory and provenance metadata. (★ 76 · updated 2026-08-16)",
+          "title": "AIsbom 🟢 — AI software bill of materials tooling for AI/ML supply-chain inventory and provenance metadata. (★ 76 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -2195,7 +2224,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T16:37:24Z",
+            "last_commit": "2026-08-17T03:51:16Z",
             "owner": "Lab700xOrg",
             "repo": "aisbom",
             "stars": 76
@@ -2243,7 +2272,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T14:01:58Z",
+                "last_commit": "2026-08-17T09:19:05Z",
                 "owner": "DataDog",
                 "repo": "guarddog",
                 "stars": 1184
@@ -2267,21 +2296,21 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Strix 🟢 — Autonomous \"AI hackers\" that dynamically run code and validate vulnerabilities with PoCs (Apache-2.0). (★ 53,078 · updated 2026-08-14)",
+          "title": "Strix 🟢 — Autonomous \"AI hackers\" that dynamically run code and validate vulnerabilities with PoCs (Apache-2.0). (★ 53,569 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T20:43:08Z",
+            "last_commit": "2026-08-17T14:16:01Z",
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 53249
+            "stars": 53941
           }
         },
         {
           "node_type": "item",
-          "title": "Shannon 🟢🟠⚠️ — White-box autonomous AI pentester with strong XBOW-benchmark results. Shannon Lite is AGPL-3.0; Shannon Pro is commercial. (★ 46,855 · updated 2026-08-12)",
+          "title": "Shannon 🟢🟠⚠️ — White-box autonomous AI pentester with strong XBOW-benchmark results. Shannon Lite is AGPL-3.0; Shannon Pro is commercial. (★ 46,882 · updated 2026-08-12)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2290,12 +2319,12 @@
             "last_commit": "2026-08-14T00:15:15Z",
             "owner": "KeygraphHQ",
             "repo": "shannon",
-            "stars": 46863
+            "stars": 46891
           }
         },
         {
           "node_type": "item",
-          "title": "PentAGI 🟢 — Fully autonomous multi-agent pentest framework with Docker sandboxing. (VXControl) (★ 21,845 · updated 2026-08-06)",
+          "title": "PentAGI 🟢 — Fully autonomous multi-agent pentest framework with Docker sandboxing. (VXControl) (★ 21,860 · updated 2026-08-06)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2304,12 +2333,12 @@
             "last_commit": "2026-08-06T11:10:55Z",
             "owner": "vxcontrol",
             "repo": "pentagi",
-            "stars": 21852
+            "stars": 21870
           }
         },
         {
           "node_type": "item",
-          "title": "PentestGPT 🟢🔬 — The original USENIX'24 LLM pentest agent; re-released as an autonomous pipeline with strong benchmark results. (★ 14,886 · updated 2026-07-14)",
+          "title": "PentestGPT 🟢🔬 — The original USENIX'24 LLM pentest agent; re-released as an autonomous pipeline with strong benchmark results. (★ 14,906 · updated 2026-07-14)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2318,12 +2347,12 @@
             "last_commit": "2026-07-14T12:58:31Z",
             "owner": "GreyDGL",
             "repo": "PentestGPT",
-            "stars": 14894
+            "stars": 14916
           }
         },
         {
           "node_type": "item",
-          "title": "HexStrike-AI 🟢 — MCP server exposing 150+ security tools (nmap, gobuster, nuclei, …) to AI agents (MIT). (★ 11,066 · updated 2026-08-03)",
+          "title": "HexStrike-AI 🟢 — MCP server exposing 150+ security tools (nmap, gobuster, nuclei, …) to AI agents (MIT). (★ 11,116 · updated 2026-08-03)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2332,12 +2361,12 @@
             "last_commit": "2026-08-03T14:33:09Z",
             "owner": "0x4m4",
             "repo": "hexstrike-ai",
-            "stars": 11087
+            "stars": 11133
           }
         },
         {
           "node_type": "item",
-          "title": "CAI – Cybersecurity AI 🟢🟠 — Modular, bug-bounty-ready agent framework supporting 300+ LLM models. MIT for research; separate commercial license for production/on-prem. (Alias Robotics) (★ 9,735 · updated 2026-07-14)",
+          "title": "CAI – Cybersecurity AI 🟢🟠 — Modular, bug-bounty-ready agent framework supporting 300+ LLM models. MIT for research; separate commercial license for production/on-prem. (Alias Robotics) (★ 9,745 · updated 2026-07-14)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2346,12 +2375,12 @@
             "last_commit": "2026-07-14T12:55:53Z",
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9739
+            "stars": 9751
           }
         },
         {
           "node_type": "item",
-          "title": "T3MP3ST 🟢⚠️ — Autonomous offensive-security meta-harness that wraps local or API-backed coding agents into a multi-agent recon-to-exploit workflow with MCP/API, War Room UI, tool arsenal, and committed benchmark artifacts. — note: very new AGPL-3.0 project with bold benchmark claims; use only for authorized testing and verify independently before operational use. (★ 5,587 · updated 2026-08-12)",
+          "title": "T3MP3ST 🟢⚠️ — Autonomous offensive-security meta-harness that wraps local or API-backed coding agents into a multi-agent recon-to-exploit workflow with MCP/API, War Room UI, tool arsenal, and committed benchmark artifacts. — note: very new AGPL-3.0 project with bold benchmark claims; use only for authorized testing and verify independently before operational use. (★ 5,596 · updated 2026-08-12)",
           "description": null,
           "children": [
             {
@@ -2365,7 +2394,7 @@
                 "last_commit": "2026-08-06T11:10:55Z",
                 "owner": "vxcontrol",
                 "repo": "pentagi",
-                "stars": 21852
+                "stars": 21870
               }
             }
           ],
@@ -2375,12 +2404,12 @@
             "last_commit": "2026-08-12T17:28:55Z",
             "owner": "elder-plinius",
             "repo": "T3MP3ST",
-            "stars": 5593
+            "stars": 5596
           }
         },
         {
           "node_type": "item",
-          "title": "PentestAgent 🟢 — Black-box AI pentest framework with MCP, multi-agent spawning, and persistent sessions. (★ 2,950 · updated 2026-08-04)",
+          "title": "PentestAgent 🟢 — Black-box AI pentest framework with MCP, multi-agent spawning, and persistent sessions. (★ 2,958 · updated 2026-08-04)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2389,12 +2418,12 @@
             "last_commit": "2026-08-04T04:39:26Z",
             "owner": "GH05TCREW",
             "repo": "pentestagent",
-            "stars": 2952
+            "stars": 2963
           }
         },
         {
           "node_type": "item",
-          "title": "Pentest-Swarm-AI 🟢 — Swarm-intelligence multi-agent pentest with stigmergic blackboard coordination (Go). (★ 2,204 · updated 2026-08-04)",
+          "title": "Pentest-Swarm-AI 🟢 — Swarm-intelligence multi-agent pentest with stigmergic blackboard coordination (Go). (★ 2,205 · updated 2026-08-04)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2403,12 +2432,12 @@
             "last_commit": "2026-08-04T14:31:29Z",
             "owner": "Armur-Ai",
             "repo": "Pentest-Swarm-AI",
-            "stars": 2204
+            "stars": 2205
           }
         },
         {
           "node_type": "item",
-          "title": "pentest-ai-agents 🟢 — Collection of Claude Code offensive-security subagents for authorized penetration-testing research. (★ 2,130 · updated 2026-08-08)",
+          "title": "pentest-ai-agents 🟢 — Collection of Claude Code offensive-security subagents for authorized penetration-testing research. (★ 2,132 · updated 2026-08-16)",
           "description": null,
           "children": [
             {
@@ -2419,10 +2448,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T15:06:46Z",
+                "last_commit": "2026-08-17T04:52:58Z",
                 "owner": "0xSteph",
                 "repo": "pentest-ai",
-                "stars": 1595
+                "stars": 1599
               }
             }
           ],
@@ -2432,12 +2461,12 @@
             "last_commit": "2026-08-16T15:07:17Z",
             "owner": "0xSteph",
             "repo": "pentest-ai-agents",
-            "stars": 2131
+            "stars": 2132
           }
         },
         {
           "node_type": "item",
-          "title": "Deep Eye 🟢 — AI-assisted penetration-testing scanner that orchestrates multiple LLM providers for payload generation, 45+ vulnerability checks, CVE/RAG-assisted testing, AI triage, scan diffing, browser automation, proxying, and multi-format reports. — note: MIT-licensed; authorized use only. Heavy runtime surface: optional browser automation/proxying, plaintext API-key config, plugins with full OS access, and pickle model files called out in SECURITY.md. (★ 1,968 · updated 2026-08-14)",
+          "title": "Deep Eye 🟢 — AI-assisted penetration-testing scanner that orchestrates multiple LLM providers for payload generation, 45+ vulnerability checks, CVE/RAG-assisted testing, AI triage, scan diffing, browser automation, proxying, and multi-format reports. — note: MIT-licensed; authorized use only. Heavy runtime surface: optional browser automation/proxying, plaintext API-key config, plugins with full OS access, and pickle model files called out in SECURITY.md. (★ 1,972 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -2451,22 +2480,22 @@
                 "last_commit": "2026-08-03T14:33:09Z",
                 "owner": "0x4m4",
                 "repo": "hexstrike-ai",
-                "stars": 11087
+                "stars": 11133
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:23:13Z",
+            "last_commit": "2026-08-17T13:06:57Z",
             "owner": "zakirkun",
             "repo": "deep-eye",
-            "stars": 1969
+            "stars": 1971
           }
         },
         {
           "node_type": "item",
-          "title": "pentest-ai 🟢 — Offensive-security MCP server with 200+ wrapped tools, specialist agents, and OWASP-oriented probes for authorized testing. (★ 1,594 · updated 2026-08-08)",
+          "title": "pentest-ai 🟢 — Offensive-security MCP server with 200+ wrapped tools, specialist agents, and OWASP-oriented probes for authorized testing. (★ 1,598 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -2480,17 +2509,17 @@
                 "last_commit": "2026-08-16T15:07:17Z",
                 "owner": "0xSteph",
                 "repo": "pentest-ai-agents",
-                "stars": 2131
+                "stars": 2132
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:06:46Z",
+            "last_commit": "2026-08-17T04:52:58Z",
             "owner": "0xSteph",
             "repo": "pentest-ai",
-            "stars": 1595
+            "stars": 1599
           }
         },
         {
@@ -2504,7 +2533,7 @@
             "last_commit": "2026-08-11T08:57:34Z",
             "owner": "ipa-lab",
             "repo": "hackingBuddyGPT",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -2518,7 +2547,7 @@
             "last_commit": "2026-08-12T20:44:09Z",
             "owner": "NoDataFound",
             "repo": "hackGPT",
-            "stars": 1199
+            "stars": 1200
           }
         },
         {
@@ -2532,12 +2561,12 @@
             "last_commit": "2026-08-09T12:04:03Z",
             "owner": "berylliumsec",
             "repo": "nebula",
-            "stars": 1087
+            "stars": 1088
           }
         },
         {
           "node_type": "item",
-          "title": "Burp Suite MCP Server 🟢⚠️ — Official Burp Suite extension exposing Burp to AI clients through MCP. (PortSwigger) — note: GPL-3.0 licensed. (★ 1,070 · updated 2026-08-12)",
+          "title": "Burp Suite MCP Server 🟢⚠️ — Official Burp Suite extension exposing Burp to AI clients through MCP. (PortSwigger) — note: GPL-3.0 licensed. (★ 1,071 · updated 2026-08-12)",
           "description": null,
           "children": [
             {
@@ -2551,7 +2580,7 @@
                 "last_commit": "2026-08-03T14:33:09Z",
                 "owner": "0x4m4",
                 "repo": "hexstrike-ai",
-                "stars": 11087
+                "stars": 11133
               }
             }
           ],
@@ -2561,12 +2590,12 @@
             "last_commit": "2026-08-14T18:27:35Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1070
+            "stars": 1074
           }
         },
         {
           "node_type": "item",
-          "title": "DarkMoon 🟢⚠️ — Autonomous AI penetration-testing platform that orchestrates specialized web, AD, Kubernetes, CMS, and framework agents through an MCP-controlled Docker toolbox with local privacy-tokenization for sensitive target data. — note: GPL-3.0 licensed; heavy Docker/LLM stack, use only for authorized testing. (★ 841 · updated 2026-08-06)",
+          "title": "DarkMoon 🟢⚠️ — Autonomous AI penetration-testing platform that orchestrates specialized web, AD, Kubernetes, CMS, and framework agents through an MCP-controlled Docker toolbox with local privacy-tokenization for sensitive target data. — note: GPL-3.0 licensed; heavy Docker/LLM stack, use only for authorized testing. (★ 843 · updated 2026-08-06)",
           "description": null,
           "children": [
             {
@@ -2580,7 +2609,7 @@
                 "last_commit": "2026-08-06T11:10:55Z",
                 "owner": "vxcontrol",
                 "repo": "pentagi",
-                "stars": 21852
+                "stars": 21870
               }
             }
           ],
@@ -2590,12 +2619,12 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 841
+            "stars": 844
           }
         },
         {
           "node_type": "item",
-          "title": "MCP Security Hub 🟢 — Collection of Dockerized MCP servers that expose offensive-security tools such as Nmap, Nuclei, SQLMap, Ghidra, Hashcat, and related assessment utilities to MCP-capable assistants. (FuzzingLabs) — note: orchestration and wrapper collection rather than a security boundary; its containers invoke offensive tools and must be used only in isolated, explicitly authorized environments. (★ 760 · updated 2026-04-08)",
+          "title": "MCP Security Hub 🟢 — Collection of Dockerized MCP servers that expose offensive-security tools such as Nmap, Nuclei, SQLMap, Ghidra, Hashcat, and related assessment utilities to MCP-capable assistants. (FuzzingLabs) — note: orchestration and wrapper collection rather than a security boundary; its containers invoke offensive tools and must be used only in isolated, explicitly authorized environments. (★ 761 · updated 2026-04-08)",
           "description": null,
           "children": [
             {
@@ -2606,10 +2635,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T15:06:46Z",
+                "last_commit": "2026-08-17T04:52:58Z",
                 "owner": "0xSteph",
                 "repo": "pentest-ai",
-                "stars": 1595
+                "stars": 1599
               }
             }
           ],
@@ -2624,7 +2653,7 @@
         },
         {
           "node_type": "item",
-          "title": "AIDA 🟢⚠️ — Model-agnostic autonomous pentest agent running inside an isolated Docker environment; AGPL-3.0 licensed. (★ 472 · updated 2026-07-19)",
+          "title": "AIDA 🟢⚠️ — Model-agnostic autonomous pentest agent running inside an isolated Docker environment; AGPL-3.0 licensed. (★ 471 · updated 2026-07-19)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2633,7 +2662,7 @@
             "last_commit": "2026-07-19T11:06:21Z",
             "owner": "Vasco0x4",
             "repo": "AIDA",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -2652,7 +2681,7 @@
         },
         {
           "node_type": "item",
-          "title": "HackSynth 🟢🔬⚠️ — Planner/summarizer LLM-agent framework for autonomous penetration testing and benchmark evaluation; AGPL-3.0 licensed. (★ 313 · updated 2025-06-24)",
+          "title": "HackSynth 🟢🔬⚠️ — Planner/summarizer LLM-agent framework for autonomous penetration testing and benchmark evaluation; AGPL-3.0 licensed. (★ 314 · updated 2025-06-24)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2709,7 +2738,7 @@
         },
         {
           "node_type": "item",
-          "title": "ShiftGrid 🟢 — Prompt engine that turns Claude Code into a transparent, human-in-the-loop pentester, structuring engagements through checklists, observations, and notes exposed via an agent-facing API. — note: early-stage local Docker application with no built-in authentication; keep its API and UI ports bound to localhost. (★ 38 · updated 2026-08-02)",
+          "title": "ShiftGrid 🟢 — Prompt engine that turns Claude Code into a transparent, human-in-the-loop pentester, structuring engagements through checklists, observations, and notes exposed via an agent-facing API. — note: early-stage local Docker application with no built-in authentication; keep its API and UI ports bound to localhost. (★ 39 · updated 2026-08-02)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2723,16 +2752,16 @@
         },
         {
           "node_type": "item",
-          "title": "HunterX 🟢 — AI-assisted offensive security engine that orchestrates reconnaissance, security-tool coordination, vulnerability detection and validation, evidence collection, and report-ready findings in one workflow. (NullC0d3) — note: early-stage and tool-orchestration-heavy; run only in an isolated, authorized assessment environment. (★ 11 · updated 2026-08-16)",
+          "title": "HunterX 🟢 — AI-assisted offensive security engine that orchestrates reconnaissance, security-tool coordination, vulnerability detection and validation, evidence collection, and report-ready findings in one workflow. (NullC0d3) — note: early-stage and tool-orchestration-heavy; run only in an isolated, authorized assessment environment. (★ 12 · updated 2026-08-16)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T12:42:30Z",
+            "last_commit": "2026-08-17T15:17:30Z",
             "owner": "nullc0d30",
             "repo": "HunterX",
-            "stars": 11
+            "stars": 12
           }
         }
       ],
@@ -2806,7 +2835,7 @@
             "last_commit": "2023-02-24T07:01:06Z",
             "owner": "brannondorsey",
             "repo": "PassGAN",
-            "stars": 2009
+            "stars": 2010
           }
         },
         {
@@ -2825,7 +2854,7 @@
                 "last_commit": "2023-02-24T07:01:06Z",
                 "owner": "brannondorsey",
                 "repo": "PassGAN",
-                "stars": 2009
+                "stars": 2010
               }
             }
           ],
@@ -2956,7 +2985,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "deepsecrets 🟢 — Semantic secrets scanner using lexing/parsing, entropy checks, and hashed-known-secret matching across 500+ languages. — note: useful narrow detector, but not a trained ML model. (★ 171 · updated 2026-06-04)",
+          "title": "deepsecrets 🟢 — Semantic secrets scanner using lexing/parsing, entropy checks, and hashed-known-secret matching across 500+ languages. — note: useful narrow detector, but not a trained ML model. (★ 172 · updated 2026-06-04)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2965,7 +2994,7 @@
             "last_commit": "2026-08-06T14:04:05Z",
             "owner": "ntoskernel",
             "repo": "deepsecrets",
-            "stars": 171
+            "stars": 172
           }
         },
         {
@@ -2990,7 +3019,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Codex Security 🟠 — CLI and TypeScript SDK that use Codex Security to find, validate, and help fix vulnerabilities in a codebase, with scan comparison and containerized bulk-scan support. (OpenAI) — note: the CLI/SDK are open source, but scans require Codex Security access and, for best results, OpenAI Trusted Access. (★ 9,873 · updated 2026-08-16)",
+          "title": "Codex Security 🟠 — CLI and TypeScript SDK that use Codex Security to find, validate, and help fix vulnerabilities in a codebase, with scan comparison and containerized bulk-scan support. (OpenAI) — note: the CLI/SDK are open source, but scans require Codex Security access and, for best results, OpenAI Trusted Access. (★ 9,911 · updated 2026-08-16)",
           "description": null,
           "children": [
             {
@@ -3004,22 +3033,22 @@
                 "last_commit": "2026-08-13T00:55:17Z",
                 "owner": "vercel-labs",
                 "repo": "deepsec",
-                "stars": 7675
+                "stars": 7702
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T16:52:31Z",
+            "last_commit": "2026-08-17T19:05:28Z",
             "owner": "openai",
             "repo": "codex-security",
-            "stars": 9883
+            "stars": 9915
           }
         },
         {
           "node_type": "item",
-          "title": "deepsec 🟢 — Agent-powered security harness for scanning large codebases with coding agents, resumable parallel runs, custom matchers, and optional revalidation. (Vercel Labs) (★ 7,670 · updated 2026-08-13)",
+          "title": "deepsec 🟢 — Agent-powered security harness for scanning large codebases with coding agents, resumable parallel runs, custom matchers, and optional revalidation. (Vercel Labs) (★ 7,695 · updated 2026-08-13)",
           "description": null,
           "children": [
             {
@@ -3033,7 +3062,7 @@
                 "last_commit": "2026-02-11T18:01:23Z",
                 "owner": "anthropics",
                 "repo": "claude-code-security-review",
-                "stars": 5865
+                "stars": 5867
               }
             }
           ],
@@ -3043,12 +3072,12 @@
             "last_commit": "2026-08-13T00:55:17Z",
             "owner": "vercel-labs",
             "repo": "deepsec",
-            "stars": 7675
+            "stars": 7702
           }
         },
         {
           "node_type": "item",
-          "title": "defending-code-reference-harness 🟢 — Reference Claude Code skills and autonomous vulnerability-discovery pipeline for threat modeling, static scanning, triage, execution-verified C/C++ memory-bug discovery, reporting, and patch generation. (Anthropic) — note: official reference implementation, not maintained as a product; the autonomous pipeline executes target code and should be run only inside the documented gVisor sandbox. (★ 7,131 · updated 2026-08-06)",
+          "title": "defending-code-reference-harness 🟢 — Reference Claude Code skills and autonomous vulnerability-discovery pipeline for threat modeling, static scanning, triage, execution-verified C/C++ memory-bug discovery, reporting, and patch generation. (Anthropic) — note: official reference implementation, not maintained as a product; the autonomous pipeline executes target code and should be run only inside the documented gVisor sandbox. (★ 7,270 · updated 2026-08-06)",
           "description": null,
           "children": [
             {
@@ -3062,7 +3091,7 @@
                 "last_commit": "2026-08-13T00:55:17Z",
                 "owner": "vercel-labs",
                 "repo": "deepsec",
-                "stars": 7675
+                "stars": 7702
               }
             }
           ],
@@ -3072,12 +3101,12 @@
             "last_commit": "2026-08-06T21:42:09Z",
             "owner": "anthropics",
             "repo": "defending-code-reference-harness",
-            "stars": 7188
+            "stars": 7286
           }
         },
         {
           "node_type": "item",
-          "title": "Trail of Bits Skills 🟢⚠️ — Claude Code- and Codex-compatible security workflow skills for code review, differential review, false-positive analysis, supply-chain checks, GitHub Actions auditing, Semgrep rule generation, and vulnerability research. (Trail of Bits) — note: reusable agent workflow instructions rather than a standalone deterministic scanner; share-alike terms apply to adapted material. (★ 6,612 · updated 2026-08-14)",
+          "title": "Trail of Bits Skills 🟢⚠️ — Claude Code- and Codex-compatible security workflow skills for code review, differential review, false-positive analysis, supply-chain checks, GitHub Actions auditing, Semgrep rule generation, and vulnerability research. (Trail of Bits) — note: reusable agent workflow instructions rather than a standalone deterministic scanner; share-alike terms apply to adapted material. (★ 6,624 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -3091,22 +3120,22 @@
                 "last_commit": "2026-04-08T14:45:56Z",
                 "owner": "utkusen",
                 "repo": "sast-skills",
-                "stars": 1276
+                "stars": 1277
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:53:11Z",
+            "last_commit": "2026-08-17T17:11:30Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6613
+            "stars": 6629
           }
         },
         {
           "node_type": "item",
-          "title": "claude-code-security-review 🟠 — Official Claude-based semantic SAST GitHub Action that reviews PR diffs. (Anthropic) (★ 5,863 · updated 2026-02-11)",
+          "title": "claude-code-security-review 🟠 — Official Claude-based semantic SAST GitHub Action that reviews PR diffs. (Anthropic) (★ 5,866 · updated 2026-02-11)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3115,12 +3144,12 @@
             "last_commit": "2026-02-11T18:01:23Z",
             "owner": "anthropics",
             "repo": "claude-code-security-review",
-            "stars": 5865
+            "stars": 5867
           }
         },
         {
           "node_type": "item",
-          "title": "Vulnhuntr 🟢 — Zero-shot vulnerability discovery in Python repos via LLM call-chain analysis; credited with a 0-day RCE in Ragflow. (Protect AI) (★ 2,738 · updated 2025-02-06)",
+          "title": "Vulnhuntr 🟢 — Zero-shot vulnerability discovery in Python repos via LLM call-chain analysis; credited with a 0-day RCE in Ragflow. (Protect AI) (★ 2,741 · updated 2025-02-06)",
           "description": null,
           "children": [
             {
@@ -3144,12 +3173,12 @@
             "last_commit": "2025-02-06T18:04:15Z",
             "owner": "protectai",
             "repo": "vulnhuntr",
-            "stars": 2739
+            "stars": 2743
           }
         },
         {
           "node_type": "item",
-          "title": "Visa Vulnerability Agentic Harness 🟢 — Agentic SAST pipeline for autonomous vulnerability discovery, exploitability verification, SARIF/Markdown reporting, remediation, and validation using frontier AI models. (Visa) — note: Apache-2.0; authorized use only. The default profile can continue into remediation and edit target source files; use for detection-only runs. (★ 2,553 · updated 2026-08-04)",
+          "title": "Visa Vulnerability Agentic Harness 🟢 — Agentic SAST pipeline for autonomous vulnerability discovery, exploitability verification, SARIF/Markdown reporting, remediation, and validation using frontier AI models. (Visa) — note: Apache-2.0; authorized use only. The default profile can continue into remediation and edit target source files; use for detection-only runs. (★ 2,556 · updated 2026-08-04)",
           "description": null,
           "children": [
             {
@@ -3163,7 +3192,7 @@
                 "last_commit": "2026-08-13T00:55:17Z",
                 "owner": "vercel-labs",
                 "repo": "deepsec",
-                "stars": 7675
+                "stars": 7702
               }
             }
           ],
@@ -3173,12 +3202,12 @@
             "last_commit": "2026-08-04T21:44:11Z",
             "owner": "visa",
             "repo": "visa-vulnerability-agentic-harness",
-            "stars": 2553
+            "stars": 2561
           }
         },
         {
           "node_type": "item",
-          "title": "open·kritt 🟢⚠️ — Self-hosted platform that orchestrates Codex or Claude Code across focused vulnerability-research workflows, then validates, de-duplicates, ranks, and reports resulting findings. (Kritt AI) — note: jobs run as root in disposable Docker containers with writable target copies and direct internet access; the stack has no application auth by default and sends scanned code to the configured model provider. Deploy only on a dedicated, access-controlled host and scan authorized targets. (★ 1,723 · updated 2026-08-12)",
+          "title": "open·kritt 🟢⚠️ — Self-hosted platform that orchestrates Codex or Claude Code across focused vulnerability-research workflows, then validates, de-duplicates, ranks, and reports resulting findings. (Kritt AI) — note: jobs run as root in disposable Docker containers with writable target copies and direct internet access; the stack has no application auth by default and sends scanned code to the configured model provider. Deploy only on a dedicated, access-controlled host and scan authorized targets. (★ 1,877 · updated 2026-08-16)",
           "description": null,
           "children": [
             {
@@ -3192,17 +3221,17 @@
                 "last_commit": "2026-08-13T00:55:17Z",
                 "owner": "vercel-labs",
                 "repo": "deepsec",
-                "stars": 7675
+                "stars": 7702
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T17:33:06Z",
+            "last_commit": "2026-08-17T14:11:37Z",
             "owner": "Kritt-ai",
             "repo": "open-kritt",
-            "stars": 1755
+            "stars": 1895
           }
         },
         {
@@ -3228,10 +3257,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T07:43:57Z",
+            "last_commit": "2026-08-17T04:10:20Z",
             "owner": "trailofbits",
             "repo": "buttercup",
-            "stars": 1676
+            "stars": 1677
           }
         },
         {
@@ -3260,7 +3289,7 @@
             "last_commit": "2026-04-08T14:45:56Z",
             "owner": "utkusen",
             "repo": "sast-skills",
-            "stars": 1276
+            "stars": 1277
           }
         },
         {
@@ -3279,7 +3308,7 @@
                 "last_commit": "2026-08-13T00:55:17Z",
                 "owner": "vercel-labs",
                 "repo": "deepsec",
-                "stars": 7675
+                "stars": 7702
               }
             }
           ],
@@ -3322,7 +3351,7 @@
                 "last_commit": "2026-04-08T14:45:56Z",
                 "owner": "utkusen",
                 "repo": "sast-skills",
-                "stars": 1276
+                "stars": 1277
               }
             }
           ],
@@ -3332,7 +3361,7 @@
             "last_commit": "2026-04-07T05:10:19Z",
             "owner": "SunWeb3Sec",
             "repo": "llm-sast-scanner",
-            "stars": 274
+            "stars": 275
           }
         },
         {
@@ -3362,7 +3391,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T08:39:59Z",
+                "last_commit": "2026-08-17T06:50:31Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
                 "stars": 221
@@ -3394,14 +3423,14 @@
                 "last_commit": "2026-08-06T21:42:09Z",
                 "owner": "anthropics",
                 "repo": "defending-code-reference-harness",
-                "stars": 7188
+                "stars": 7286
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T04:45:02Z",
+            "last_commit": "2026-08-17T17:46:31Z",
             "owner": "scadastrangelove",
             "repo": "rust-in-peace",
             "stars": 14
@@ -3415,7 +3444,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "STRIDE GPT 🟢 — LLM-powered threat modeling tool that generates STRIDE threat models, attack trees, data flow diagrams, DREAD risk scores, mitigations, and Gherkin test cases from application descriptions, architecture diagrams, or codebases (agentic analysis mode), with OWASP LLM Top 10 and Agentic (ASI) coverage, MITRE ATT&CK/ATLAS mapping, Markdown/JSON/SARIF/HTML output, and broad LLM provider support via LiteLLM including local hosting. (Matthew Adams) (★ 1,100 · updated 2026-08-12)",
+          "title": "STRIDE GPT 🟢 — LLM-powered threat modeling tool that generates STRIDE threat models, attack trees, data flow diagrams, DREAD risk scores, mitigations, and Gherkin test cases from application descriptions, architecture diagrams, or codebases (agentic analysis mode), with OWASP LLM Top 10 and Agentic (ASI) coverage, MITRE ATT&CK/ATLAS mapping, Markdown/JSON/SARIF/HTML output, and broad LLM provider support via LiteLLM including local hosting. (Matthew Adams) (★ 1,101 · updated 2026-08-12)",
           "description": null,
           "children": [
             {
@@ -3436,10 +3465,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T06:17:52Z",
+            "last_commit": "2026-08-17T09:09:58Z",
             "owner": "mrwadams",
             "repo": "stride-gpt",
-            "stars": 1100
+            "stars": 1101
           }
         },
         {
@@ -3455,10 +3484,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T06:17:52Z",
+                "last_commit": "2026-08-17T09:09:58Z",
                 "owner": "mrwadams",
                 "repo": "stride-gpt",
-                "stars": 1100
+                "stars": 1101
               }
             }
           ],
@@ -3560,7 +3589,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "FuzzyAI 🟠 — Automated LLM fuzzer for jailbreaks/prompt injection. (CyberArk) (★ 1,561 · updated 2026-02-06)",
+          "title": "FuzzyAI 🟠 — Automated LLM fuzzer for jailbreaks/prompt injection. (CyberArk) (★ 1,563 · updated 2026-02-06)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3569,7 +3598,7 @@
             "last_commit": "2026-02-06T21:59:21Z",
             "owner": "cyberark",
             "repo": "FuzzyAI",
-            "stars": 1561
+            "stars": 1563
           }
         },
         {
@@ -3866,7 +3895,7 @@
                 "last_commit": "2026-08-12T08:19:38Z",
                 "owner": "soctalk",
                 "repo": "soctalk",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
@@ -3944,7 +3973,7 @@
         },
         {
           "node_type": "item",
-          "title": "Vigil SOC 🟢 — Open-source AI SOC with readable Python agents, Markdown playbooks, and MCP integrations for triage, investigation, hunting, response, reporting, and forensics. (Vigil SOC) (★ 246 · updated 2026-08-15)",
+          "title": "Vigil SOC 🟢 — Open-source AI SOC with readable Python agents, Markdown playbooks, and MCP integrations for triage, investigation, hunting, response, reporting, and forensics. (Vigil SOC) (★ 247 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -3958,22 +3987,22 @@
                 "last_commit": "2026-08-12T08:19:38Z",
                 "owner": "soctalk",
                 "repo": "soctalk",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T06:54:39Z",
+            "last_commit": "2026-08-17T17:59:25Z",
             "owner": "Vigil-SOC",
             "repo": "vigil",
-            "stars": 246
+            "stars": 248
           }
         },
         {
           "node_type": "item",
-          "title": "ExCyTIn-Bench (SecRL) 🟢🔬 — ICML 2026 benchmark for evaluating LLM agents on cyber-threat investigation and threat hunting through security question-answering over eight anonymized incident databases. (Microsoft) — note: evaluation requires model-provider credentials, Dockerized MySQL incident databases, and roughly 10 GB for the standard eight-container setup (up to 33 GB for the combined database). (★ 142 · updated 2026-08-03)",
+          "title": "ExCyTIn-Bench (SecRL) 🟢🔬 — ICML 2026 benchmark for evaluating LLM agents on cyber-threat investigation and threat hunting through security question-answering over eight anonymized incident databases. (Microsoft) — note: evaluation requires model-provider credentials, Dockerized MySQL incident databases, and roughly 10 GB for the standard eight-container setup (up to 33 GB for the combined database). (★ 143 · updated 2026-08-03)",
           "description": null,
           "children": [
             {
@@ -3997,7 +4026,7 @@
             "last_commit": "2026-08-05T20:10:41Z",
             "owner": "microsoft",
             "repo": "SecRL",
-            "stars": 142
+            "stars": 143
           }
         },
         {
@@ -4055,7 +4084,7 @@
             "last_commit": "2026-08-12T08:19:38Z",
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -4123,21 +4152,21 @@
       "items": [
         {
           "node_type": "item",
-          "title": "ida-pro-mcp 🟢 — MCP bridge for IDA Pro exposing decompile, disassemble, xref, rename, and debugging workflows to LLM clients. (★ 11,375 · updated 2026-08-09)",
+          "title": "ida-pro-mcp 🟢 — MCP bridge for IDA Pro exposing decompile, disassemble, xref, rename, and debugging workflows to LLM clients. (★ 11,393 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T14:11:11Z",
+            "last_commit": "2026-08-17T13:34:03Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11376
+            "stars": 11401
           }
         },
         {
           "node_type": "item",
-          "title": "GhidraMCP 🟢 — MCP server exposing Ghidra reverse-engineering ops to any MCP-capable LLM. (★ 9,800 · updated 2025-06-23)",
+          "title": "GhidraMCP 🟢 — MCP server exposing Ghidra reverse-engineering ops to any MCP-capable LLM. (★ 9,805 · updated 2025-06-23)",
           "description": null,
           "children": [
             {
@@ -4161,12 +4190,12 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9802
+            "stars": 9808
           }
         },
         {
           "node_type": "item",
-          "title": "LLM4Decompile 🟢🔬⚠️ — Research project for binary-to-C decompilation with LLMs; code is MIT, but model weights use a more restrictive license. (★ 6,963 · updated 2026-02-12)",
+          "title": "LLM4Decompile 🟢🔬⚠️ — Research project for binary-to-C decompilation with LLMs; code is MIT, but model weights use a more restrictive license. (★ 6,965 · updated 2026-02-12)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4175,7 +4204,7 @@
             "last_commit": "2026-02-12T03:02:03Z",
             "owner": "albertan017",
             "repo": "LLM4Decompile",
-            "stars": 6963
+            "stars": 6966
           }
         },
         {
@@ -4194,7 +4223,7 @@
         },
         {
           "node_type": "item",
-          "title": "ghidra-mcp 🟢 — Ghidra MCP server with large tool coverage, GUI plugin, headless server, and lazy tool loading. (★ 3,322 · updated 2026-08-12)",
+          "title": "ghidra-mcp 🟢 — Ghidra MCP server with large tool coverage, GUI plugin, headless server, and lazy tool loading. (★ 3,333 · updated 2026-08-12)",
           "description": null,
           "children": [
             {
@@ -4208,7 +4237,7 @@
                 "last_commit": "2026-08-03T12:39:26Z",
                 "owner": "symgraph",
                 "repo": "GhidrAssistMCP",
-                "stars": 720
+                "stars": 719
               }
             }
           ],
@@ -4218,7 +4247,7 @@
             "last_commit": "2026-08-14T01:14:39Z",
             "owner": "bethington",
             "repo": "ghidra-mcp",
-            "stars": 3323
+            "stars": 3334
           }
         },
         {
@@ -4247,12 +4276,12 @@
             "last_commit": "2024-06-09T20:40:29Z",
             "owner": "aress31",
             "repo": "burpgpt",
-            "stars": 2347
+            "stars": 2348
           }
         },
         {
           "node_type": "item",
-          "title": "ReVa 🟢 — Ghidra-focused reverse-engineering assistant with MCP support, Claude Skills integration, and long-form analysis workflows. (★ 803 · updated 2026-07-28)",
+          "title": "ReVa 🟢 — Ghidra-focused reverse-engineering assistant with MCP support, Claude Skills integration, and long-form analysis workflows. (★ 805 · updated 2026-07-28)",
           "description": null,
           "children": [
             {
@@ -4266,7 +4295,7 @@
                 "last_commit": "2025-06-23T04:18:18Z",
                 "owner": "LaurieWired",
                 "repo": "GhidraMCP",
-                "stars": 9802
+                "stars": 9808
               }
             }
           ],
@@ -4276,7 +4305,7 @@
             "last_commit": "2026-08-11T04:03:53Z",
             "owner": "cyberkaida",
             "repo": "reverse-engineering-assistant",
-            "stars": 804
+            "stars": 805
           }
         },
         {
@@ -4295,7 +4324,7 @@
                 "last_commit": "2026-08-11T04:03:53Z",
                 "owner": "cyberkaida",
                 "repo": "reverse-engineering-assistant",
-                "stars": 804
+                "stars": 805
               }
             }
           ],
@@ -4305,12 +4334,12 @@
             "last_commit": "2026-08-03T12:39:26Z",
             "owner": "symgraph",
             "repo": "GhidrAssistMCP",
-            "stars": 720
+            "stars": 719
           }
         },
         {
           "node_type": "item",
-          "title": "GhidraGPT 🟢 — Ghidra plugin that integrates LLMs for automated code refactoring and analysis. (★ 656 · updated 2026-07-22)",
+          "title": "GhidraGPT 🟢 — Ghidra plugin that integrates LLMs for automated code refactoring and analysis. (★ 658 · updated 2026-07-22)",
           "description": null,
           "children": [
             {
@@ -4324,7 +4353,7 @@
                 "last_commit": "2025-06-23T04:18:18Z",
                 "owner": "LaurieWired",
                 "repo": "GhidraMCP",
-                "stars": 9802
+                "stars": 9808
               }
             }
           ],
@@ -4334,12 +4363,12 @@
             "last_commit": "2026-07-22T13:46:37Z",
             "owner": "weirdmachine64",
             "repo": "GhidraGPT",
-            "stars": 657
+            "stars": 658
           }
         },
         {
           "node_type": "item",
-          "title": "OGhidra 🟢 — Natural-language Ghidra analysis via Ollama. (Lawrence Livermore National Lab) (★ 409 · updated 2026-08-14)",
+          "title": "OGhidra 🟢 — Natural-language Ghidra analysis via Ollama. (Lawrence Livermore National Lab) (★ 410 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -4363,12 +4392,12 @@
             "last_commit": "2026-08-14T22:59:05Z",
             "owner": "llnl",
             "repo": "OGhidra",
-            "stars": 409
+            "stars": 410
           }
         },
         {
           "node_type": "item",
-          "title": "gpt-wpre 🔬 — Whole-program reverse engineering with GPT-3. (★ 406 · updated 2022-12-31)",
+          "title": "gpt-wpre 🔬 — Whole-program reverse engineering with GPT-3. (★ 407 · updated 2022-12-31)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4377,12 +4406,12 @@
             "last_commit": "2022-12-31T02:26:20Z",
             "owner": "moyix",
             "repo": "gpt-wpre",
-            "stars": 406
+            "stars": 407
           }
         },
         {
           "node_type": "item",
-          "title": "REA 🟢 — Local CLI and MCP toolkit for agent-assisted reverse engineering of native binaries, managed PE/CLI files, JavaScript/Electron apps, and browser runtimes, using Hopper or an operator-provided Ghidra installation. — note: deep native analysis uses separately licensed Hopper or operator-installed Ghidra. Setup can modify agent MCP registrations after interactive approval, and dynamic providers run with the current user's permissions; analyze only authorized artifacts. (★ 332 · updated 2026-08-14)",
+          "title": "REA 🟢 — Local CLI and MCP toolkit for agent-assisted reverse engineering of native binaries, managed PE/CLI files, JavaScript/Electron apps, and browser runtimes, using Hopper or an operator-provided Ghidra installation. — note: deep native analysis uses separately licensed Hopper or operator-installed Ghidra. Setup can modify agent MCP registrations after interactive approval, and dynamic providers run with the current user's permissions; analyze only authorized artifacts. (★ 346 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -4396,7 +4425,7 @@
                 "last_commit": "2025-06-23T04:18:18Z",
                 "owner": "LaurieWired",
                 "repo": "GhidraMCP",
-                "stars": 9802
+                "stars": 9808
               }
             }
           ],
@@ -4406,7 +4435,7 @@
             "last_commit": "2026-08-14T06:38:37Z",
             "owner": "morluto",
             "repo": "rea",
-            "stars": 334
+            "stars": 347
           }
         },
         {
@@ -4439,7 +4468,7 @@
                 "last_commit": "2026-08-14T22:59:05Z",
                 "owner": "llnl",
                 "repo": "OGhidra",
-                "stars": 409
+                "stars": 410
               }
             }
           ],
@@ -4468,7 +4497,7 @@
                 "last_commit": "2024-06-09T20:40:29Z",
                 "owner": "aress31",
                 "repo": "burpgpt",
-                "stars": 2347
+                "stars": 2348
               }
             }
           ],
@@ -4492,7 +4521,7 @@
             "last_commit": "2026-06-08T22:41:50Z",
             "owner": "bromoket",
             "repo": "x64dbg_mcp",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -4522,21 +4551,21 @@
       "items": [
         {
           "node_type": "item",
-          "title": "promptfoo 🟢 — LLM eval + red-teaming/pentesting CLI with 50+ attack plugins (MIT). Note: OpenAI announced an acquisition agreement in March 2026; remains MIT-licensed — track governance. (★ 24,270 · updated 2026-08-15)",
+          "title": "promptfoo 🟢 — LLM eval + red-teaming/pentesting CLI with 50+ attack plugins (MIT). Note: OpenAI announced an acquisition agreement in March 2026; remains MIT-licensed — track governance. (★ 24,302 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:05:51Z",
+            "last_commit": "2026-08-17T19:03:53Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24276
+            "stars": 24313
           }
         },
         {
           "node_type": "item",
-          "title": "garak 🟢 — The LLM vulnerability scanner — probes for prompt injection, jailbreaks, data leakage, and more. (NVIDIA) (★ 8,824 · updated 2026-08-14)",
+          "title": "garak 🟢 — The LLM vulnerability scanner — probes for prompt injection, jailbreaks, data leakage, and more. (NVIDIA) (★ 8,834 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -4547,10 +4576,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T00:00:53Z",
+                "last_commit": "2026-08-17T17:10:17Z",
                 "owner": "microsoft",
                 "repo": "PyRIT",
-                "stars": 4312
+                "stars": 4317
               }
             }
           ],
@@ -4560,12 +4589,12 @@
             "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8827
+            "stars": 8836
           }
         },
         {
           "node_type": "item",
-          "title": "Guardrails AI 🟢 — Python framework for adding input/output guards, validators, structured-output controls, and Guardrails Hub checks to LLM applications. (Guardrails AI) (★ 7,289 · updated 2026-08-14)",
+          "title": "Guardrails AI 🟢 — Python framework for adding input/output guards, validators, structured-output controls, and Guardrails Hub checks to LLM applications. (Guardrails AI) (★ 7,294 · updated 2026-08-14)",
           "description": null,
           "children": [
             {
@@ -4576,10 +4605,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T21:18:25Z",
+                "last_commit": "2026-08-17T18:46:10Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Guardrails",
-                "stars": 6962
+                "stars": 6967
               }
             }
           ],
@@ -4589,26 +4618,26 @@
             "last_commit": "2026-08-14T23:12:52Z",
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7290
+            "stars": 7295
           }
         },
         {
           "node_type": "item",
-          "title": "NeMo Guardrails 🟢 — Programmable guardrails (input/output/dialog/retrieval rails) for LLM apps. (NVIDIA) (★ 6,959 · updated 2026-08-13)",
+          "title": "NeMo Guardrails 🟢 — Programmable guardrails (input/output/dialog/retrieval rails) for LLM apps. (NVIDIA) (★ 6,965 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:18:25Z",
+            "last_commit": "2026-08-17T18:46:10Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 6962
+            "stars": 6967
           }
         },
         {
           "node_type": "item",
-          "title": "Giskard 🟢 — Open-source evaluation, testing, and red-teaming framework for LLM agents, including agent vulnerability scanning and RAG evaluation workflows. (Giskard AI) (★ 5,753 · updated 2026-08-14)",
+          "title": "Giskard 🟢 — Open-source evaluation, testing, and red-teaming framework for LLM agents, including agent vulnerability scanning and RAG evaluation workflows. (Giskard AI) (★ 5,755 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -4629,10 +4658,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:38:27Z",
+            "last_commit": "2026-08-17T13:02:48Z",
             "owner": "Giskard-AI",
             "repo": "giskard-oss",
-            "stars": 5754
+            "stars": 5755
           }
         },
         {
@@ -4666,7 +4695,7 @@
         },
         {
           "node_type": "item",
-          "title": "PurpleLlama 🟢 — Llama Guard classifiers, CodeShield, and CyberSecEval. (Meta) (★ 4,352 · updated 2026-08-14)",
+          "title": "PurpleLlama 🟢 — Llama Guard classifiers, CodeShield, and CyberSecEval. (Meta) (★ 4,355 · updated 2026-08-14)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4675,21 +4704,21 @@
             "last_commit": "2026-08-14T20:51:28Z",
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4355
+            "stars": 4356
           }
         },
         {
           "node_type": "item",
-          "title": "PyRIT 🟢 — Python Risk Identification Tool; battle-tested across 100+ GenAI red-team operations. (Microsoft) (★ 4,310 · updated 2026-08-14)",
+          "title": "PyRIT 🟢 — Python Risk Identification Tool; battle-tested across 100+ GenAI red-team operations. (Microsoft) (★ 4,316 · updated 2026-08-14)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:00:53Z",
+            "last_commit": "2026-08-17T17:10:17Z",
             "owner": "microsoft",
             "repo": "PyRIT",
-            "stars": 4312
+            "stars": 4317
           }
         },
         {
@@ -4732,12 +4761,12 @@
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3201
+            "stars": 3202
           }
         },
         {
           "node_type": "item",
-          "title": "DeepTeam 🟢 — Open-source framework for red-teaming LLMs and LLM systems across jailbreaks, prompt injection, data leakage, and safety risks. (★ 2,452 · updated 2026-08-12)",
+          "title": "DeepTeam 🟢 — Open-source framework for red-teaming LLMs and LLM systems across jailbreaks, prompt injection, data leakage, and safety risks. (★ 2,451 · updated 2026-08-12)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4751,7 +4780,7 @@
         },
         {
           "node_type": "item",
-          "title": "llm-security 🔬 — Original PoC for indirect prompt-injection attacks. (★ 2,127 · updated 2025-07-17)",
+          "title": "llm-security 🔬 — Original PoC for indirect prompt-injection attacks. (★ 2,128 · updated 2025-07-17)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4760,12 +4789,12 @@
             "last_commit": "2025-07-17T14:03:25Z",
             "owner": "greshake",
             "repo": "llm-security",
-            "stars": 2127
+            "stars": 2128
           }
         },
         {
           "node_type": "item",
-          "title": "AI-Red-Teaming-Playground-Labs 🟢 — CTFd-based AI red-team training challenges. (Microsoft) (★ 2,045 · updated 2025-10-07)",
+          "title": "AI-Red-Teaming-Playground-Labs 🟢 — CTFd-based AI red-team training challenges. (Microsoft) (★ 2,046 · updated 2025-10-07)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4774,7 +4803,7 @@
             "last_commit": "2026-02-13T14:19:16Z",
             "owner": "microsoft",
             "repo": "AI-Red-Teaming-Playground-Labs",
-            "stars": 2045
+            "stars": 2046
           }
         },
         {
@@ -4793,7 +4822,7 @@
                 "last_commit": "2026-08-14T21:40:59Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8827
+                "stars": 8836
               }
             }
           ],
@@ -4822,7 +4851,7 @@
                 "last_commit": "2026-07-08T23:58:40Z",
                 "owner": "protectai",
                 "repo": "llm-guard",
-                "stars": 3201
+                "stars": 3202
               }
             }
           ],
@@ -4837,7 +4866,7 @@
         },
         {
           "node_type": "item",
-          "title": "wallbreaker 🟢🔬⚠️ — Claude-Code-style terminal and red-team harness for authorized LLM safety testing, with HarmBench, PAIR/TAP, Crescendo, GCG-style workflows, Parseltongue transforms, MCP tooling, LLM judges, and reproducible run artifacts. — note: offensive jailbreak toolkit for authorized testing only; AGPL-3.0 licensed and NOTICE flags external jailbreak corpora with their own or missing upstream licenses. (★ 1,173 · updated 2026-08-11)",
+          "title": "wallbreaker 🟢🔬⚠️ — Claude-Code-style terminal and red-team harness for authorized LLM safety testing, with HarmBench, PAIR/TAP, Crescendo, GCG-style workflows, Parseltongue transforms, MCP tooling, LLM judges, and reproducible run artifacts. — note: offensive jailbreak toolkit for authorized testing only; AGPL-3.0 licensed and NOTICE flags external jailbreak corpora with their own or missing upstream licenses. (★ 1,208 · updated 2026-08-11)",
           "description": null,
           "children": [
             {
@@ -4861,7 +4890,7 @@
             "last_commit": "2026-08-11T23:19:03Z",
             "owner": "JailbrokenAI",
             "repo": "wallbreaker",
-            "stars": 1181
+            "stars": 1217
           }
         },
         {
@@ -4938,7 +4967,7 @@
         },
         {
           "node_type": "item",
-          "title": "Counterfit 🟢 — ML/AI penetration-testing automation tool. (Microsoft) (★ 934 · updated 2025-07-18)",
+          "title": "Counterfit 🟢 — ML/AI penetration-testing automation tool. (Microsoft) (★ 935 · updated 2025-07-18)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4947,7 +4976,7 @@
             "last_commit": "2025-07-18T13:29:17Z",
             "owner": "Azure",
             "repo": "counterfit",
-            "stars": 934
+            "stars": 935
           }
         },
         {
@@ -5008,7 +5037,7 @@
         },
         {
           "node_type": "item",
-          "title": "Vigil 🟢🔬 — Library/REST API to scan prompts and responses for prompt injection. (★ 495 · updated 2024-01-31)",
+          "title": "Vigil 🟢🔬 — Library/REST API to scan prompts and responses for prompt injection. (★ 496 · updated 2024-01-31)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5022,7 +5051,7 @@
         },
         {
           "node_type": "item",
-          "title": "Open-Prompt-Injection 🟢🔬 — Open-source toolkit and benchmark for implementing and evaluating prompt-injection attacks, defenses, and LLM-integrated applications. (★ 478 · updated 2025-10-29)",
+          "title": "Open-Prompt-Injection 🟢🔬 — Open-source toolkit and benchmark for implementing and evaluating prompt-injection attacks, defenses, and LLM-integrated applications. (★ 479 · updated 2025-10-29)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5031,12 +5060,12 @@
             "last_commit": "2025-10-29T17:11:34Z",
             "owner": "liu00222",
             "repo": "Open-Prompt-Injection",
-            "stars": 478
+            "stars": 479
           }
         },
         {
           "node_type": "item",
-          "title": "LLMmap 🟢🔬 — Minimal-query fingerprinting tool for identifying LLMs from behavioral traces, with a pretrained open-set inference model. (★ 423 · updated 2025-07-24)",
+          "title": "LLMmap 🟢🔬 — Minimal-query fingerprinting tool for identifying LLMs from behavioral traces, with a pretrained open-set inference model. (★ 424 · updated 2025-07-24)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5045,12 +5074,12 @@
             "last_commit": "2025-07-24T13:07:49Z",
             "owner": "pasquini-dario",
             "repo": "LLMmap",
-            "stars": 424
+            "stars": 425
           }
         },
         {
           "node_type": "item",
-          "title": "Kiji Privacy Proxy 🟢 — Local privacy proxy for OpenAI-compatible AI API traffic that detects and masks 26 PII types with an ONNX model before forwarding requests, then restores mappings in responses. (Dataiku 575 Lab) — note: protects configured proxied traffic, not every path by which an application or agent can disclose data; operators retain responsibility for proxy routing and local mapping storage. (★ 421 · updated 2026-07-27)",
+          "title": "Kiji Privacy Proxy 🟢 — Local privacy proxy for OpenAI-compatible AI API traffic that detects and masks 26 PII types with an ONNX model before forwarding requests, then restores mappings in responses. (Dataiku 575 Lab) — note: protects configured proxied traffic, not every path by which an application or agent can disclose data; operators retain responsibility for proxy routing and local mapping storage. (★ 422 · updated 2026-07-27)",
           "description": null,
           "children": [
             {
@@ -5064,7 +5093,7 @@
                 "last_commit": "2026-07-08T23:58:40Z",
                 "owner": "protectai",
                 "repo": "llm-guard",
-                "stars": 3201
+                "stars": 3202
               }
             }
           ],
@@ -5090,10 +5119,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T00:00:53Z",
+                "last_commit": "2026-08-17T17:10:17Z",
                 "owner": "microsoft",
                 "repo": "PyRIT",
-                "stars": 4312
+                "stars": 4317
               }
             }
           ],
@@ -5165,7 +5194,7 @@
         },
         {
           "node_type": "item",
-          "title": "Augustus 🟢 — Single-binary LLM security testing framework for prompt injection, jailbreaks, and adversarial attacks across many providers. (Praetorian) (★ 278 · updated 2026-08-13)",
+          "title": "Augustus 🟢 — Single-binary LLM security testing framework for prompt injection, jailbreaks, and adversarial attacks across many providers. (Praetorian) (★ 280 · updated 2026-08-17)",
           "description": null,
           "children": [
             {
@@ -5179,17 +5208,17 @@
                 "last_commit": "2026-08-14T21:40:59Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8827
+                "stars": 8836
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T17:49:04Z",
+            "last_commit": "2026-08-17T08:20:22Z",
             "owner": "praetorian-inc",
             "repo": "augustus",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -5222,7 +5251,7 @@
                 "last_commit": "2025-10-29T17:11:34Z",
                 "owner": "liu00222",
                 "repo": "Open-Prompt-Injection",
-                "stars": 478
+                "stars": 479
               }
             }
           ],
@@ -5265,7 +5294,7 @@
                 "last_commit": "2026-06-02T10:01:31Z",
                 "owner": "ethz-spylab",
                 "repo": "agentdojo",
-                "stars": 751
+                "stars": 754
               }
             }
           ],
@@ -5280,7 +5309,7 @@
         },
         {
           "node_type": "item",
-          "title": "PIArena 🟢🔬 — ACL 2026 toolbox and benchmark for prompt-injection attacks and defenses, with ready-to-use attacks/defenses, evaluation pipelines, agent benchmarks, a Hugging Face dataset, and leaderboard. (★ 46 · updated 2026-04-20)",
+          "title": "PIArena 🟢🔬 — ACL 2026 toolbox and benchmark for prompt-injection attacks and defenses, with ready-to-use attacks/defenses, evaluation pipelines, agent benchmarks, a Hugging Face dataset, and leaderboard. (★ 47 · updated 2026-04-20)",
           "description": null,
           "children": [
             {
@@ -5304,7 +5333,7 @@
             "last_commit": "2026-04-28T05:17:03Z",
             "owner": "sleeepeer",
             "repo": "PIArena",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -5323,7 +5352,7 @@
                 "last_commit": "2026-08-14T21:40:59Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8827
+                "stars": 8836
               }
             }
           ],
@@ -5367,6 +5396,20 @@
         },
         {
           "node_type": "item",
+          "title": "JailbreakLLMs 🔬⚠️ — Research dataset of 6,387 ChatGPT prompts, including in-the-wild jailbreak prompts from Reddit, Discord, websites, and open datasets. (★ 23 · updated 2024-02-21)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-21T03:00:40Z",
+            "owner": "TrustAIRLab",
+            "repo": "JailbreakLLMs",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
           "title": "NuGuard 🟢 — Generates an AI-SBOM, statically analyzes agentic applications, red-teams live targets for prompt injection/tool misuse/data exfiltration, and validates behavioral policy compliance with SARIF, JSON, and Markdown reports. (NuGuard AI) — note: beta project; live red-team scans actively probe the target and require authorization. LLM-assisted features need provider credentials, and the optional NuGuard.ai hosted offering adds commercial features. (★ 23 · updated 2026-08-14)",
           "description": null,
           "children": [
@@ -5381,7 +5424,7 @@
                 "last_commit": "2026-08-14T21:40:59Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8827
+                "stars": 8836
               }
             }
           ],
@@ -5393,20 +5436,6 @@
             "repo": "nuguard",
             "stars": 23
           }
-        },
-        {
-          "node_type": "item",
-          "title": "JailbreakLLMs 🔬⚠️ — Research dataset of 6,387 ChatGPT prompts, including in-the-wild jailbreak prompts from Reddit, Discord, websites, and open datasets. (★ 23 · updated 2024-02-21)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-21T03:00:40Z",
-            "owner": "TrustAIRLab",
-            "repo": "JailbreakLLMs",
-            "stars": 23
-          }
         }
       ],
       "title": "Scanners, Evals & Guardrails"
@@ -5416,16 +5445,16 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Beelzebub 🟢⚠️ — Low-code honeypot using LLMs to simulate SSH/HTTP/MCP services (Go). — note: GPL-3.0 licensed. (★ 2,149 · updated 2026-08-11)",
+          "title": "Beelzebub 🟢⚠️ — Low-code honeypot using LLMs to simulate SSH/HTTP/MCP services (Go). — note: GPL-3.0 licensed. (★ 2,148 · updated 2026-08-11)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T07:39:18Z",
+            "last_commit": "2026-08-17T02:42:52Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2149
+            "stars": 2148
           }
         },
         {
@@ -5536,7 +5565,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "SWE-agent (EnIGMA) 🟢🔬 — EnIGMA offensive-CTF mode; SOTA on NYU CTF, InterCode-CTF, and Cybench (v0.7 branch). (★ 20,063 · updated 2026-07-16)",
+          "title": "SWE-agent (EnIGMA) 🟢🔬 — EnIGMA offensive-CTF mode; SOTA on NYU CTF, InterCode-CTF, and Cybench (v0.7 branch). (★ 20,069 · updated 2026-07-16)",
           "description": null,
           "children": [
             {
@@ -5560,12 +5589,12 @@
             "last_commit": "2026-08-10T22:08:15Z",
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20064
+            "stars": 20070
           }
         },
         {
           "node_type": "item",
-          "title": "claude-bug-bounty 🟢 — Claude Code plugin orchestrating recon → vuln classes → reporting. (★ 4,227 · updated 2026-08-10)",
+          "title": "claude-bug-bounty 🟢 — Claude Code plugin orchestrating recon → vuln classes → reporting. (★ 4,236 · updated 2026-08-10)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5574,7 +5603,7 @@
             "last_commit": "2026-08-10T10:25:09Z",
             "owner": "shuvonsec",
             "repo": "claude-bug-bounty",
-            "stars": 4228
+            "stars": 4237
           }
         },
         {
@@ -5593,7 +5622,7 @@
         },
         {
           "node_type": "item",
-          "title": "CyberGym 🟢🔬 — Large-scale evaluation framework for AI-agent vulnerability analysis on real-world tasks, with locally deployed challenge infrastructure, task generation, and proof-of-concept validation. (UC Berkeley / Sunblaze) — note: deploy only in an isolated local environment; the full benchmark runtime is extremely large (documentation cites up to ~10 TB) and must not be exposed to the public internet. (★ 727 · updated 2026-08-04)",
+          "title": "CyberGym 🟢🔬 — Large-scale evaluation framework for AI-agent vulnerability analysis on real-world tasks, with locally deployed challenge infrastructure, task generation, and proof-of-concept validation. (UC Berkeley / Sunblaze) — note: deploy only in an isolated local environment; the full benchmark runtime is extremely large (documentation cites up to ~10 TB) and must not be exposed to the public internet. (★ 737 · updated 2026-08-04)",
           "description": null,
           "children": [
             {
@@ -5617,26 +5646,26 @@
             "last_commit": "2026-08-04T23:37:01Z",
             "owner": "sunblaze-ucb",
             "repo": "cybergym",
-            "stars": 730
+            "stars": 738
           }
         },
         {
           "node_type": "item",
-          "title": "inspect_evals 🟢🔬 — Maintained Inspect AI evaluation suite containing multiple cyber benchmarks and tasks. (UK AI Security Institute) (★ 627 · updated 2026-08-14)",
+          "title": "inspect_evals 🟢🔬 — Maintained Inspect AI evaluation suite containing multiple cyber benchmarks and tasks. (UK AI Security Institute) (★ 627 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:48:07Z",
+            "last_commit": "2026-08-17T18:57:28Z",
             "owner": "UKGovernmentBEIS",
             "repo": "inspect_evals",
-            "stars": 627
+            "stars": 629
           }
         },
         {
           "node_type": "item",
-          "title": "Damn Vulnerable LLM Agent 🟢🔬 — Deliberately vulnerable LangChain ReAct agent for practicing prompt-injection and Thought/Action/Observation injection attacks. (ReversecLabs / WithSecure) (★ 504 · updated 2025-06-25)",
+          "title": "Damn Vulnerable LLM Agent 🟢🔬 — Deliberately vulnerable LangChain ReAct agent for practicing prompt-injection and Thought/Action/Observation injection attacks. (ReversecLabs / WithSecure) (★ 505 · updated 2025-06-25)",
           "description": null,
           "children": [
             {
@@ -5660,12 +5689,12 @@
             "last_commit": "2025-06-25T13:58:42Z",
             "owner": "ReversecLabs",
             "repo": "damn-vulnerable-llm-agent",
-            "stars": 504
+            "stars": 505
           }
         },
         {
           "node_type": "item",
-          "title": "Bug-Bounty-Agents 🟢 — 43 AI agent personas for Claude Code / Copilot / Cursor across the bug-bounty lifecycle. (★ 368 · updated 2026-04-30)",
+          "title": "Bug-Bounty-Agents 🟢 — 43 AI agent personas for Claude Code / Copilot / Cursor across the bug-bounty lifecycle. (★ 369 · updated 2026-04-30)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5674,7 +5703,7 @@
             "last_commit": "2026-04-30T16:35:51Z",
             "owner": "matty69v",
             "repo": "Bug-Bounty-Agents",
-            "stars": 369
+            "stars": 370
           }
         },
         {
@@ -5721,7 +5750,7 @@
         },
         {
           "node_type": "item",
-          "title": "LLMVault 🟢🔬 — Intentionally vulnerable LLM security-training platform with OWASP LLM Top 10 labs, CTF-style challenges, hints, scoring, and mitigation guidance. — note: deliberately vulnerable training target; run only in an isolated, authorized environment. Live Mode optionally requires Ollama or provider credentials. (★ 295 · updated 2026-08-10)",
+          "title": "LLMVault 🟢🔬 — Intentionally vulnerable LLM security-training platform with OWASP LLM Top 10 labs, CTF-style challenges, hints, scoring, and mitigation guidance. — note: deliberately vulnerable training target; run only in an isolated, authorized environment. Live Mode optionally requires Ollama or provider credentials. (★ 296 · updated 2026-08-10)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5730,12 +5759,12 @@
             "last_commit": "2026-08-10T13:40:25Z",
             "owner": "CyberSunil",
             "repo": "LLMVault",
-            "stars": 295
+            "stars": 296
           }
         },
         {
           "node_type": "item",
-          "title": "CVE-Bench 🟢🔬 — ICML 2025 benchmark that evaluates AI agents against reproducible Docker environments for real critical-severity web-application CVEs and exploit objectives. — note: runs intentionally vulnerable services and should be used only in isolated environments; arm64 support is experimental. (★ 270 · updated 2026-01-14)",
+          "title": "CVE-Bench 🟢🔬 — ICML 2025 benchmark that evaluates AI agents against reproducible Docker environments for real critical-severity web-application CVEs and exploit objectives. — note: runs intentionally vulnerable services and should be used only in isolated environments; arm64 support is experimental. (★ 271 · updated 2026-01-14)",
           "description": null,
           "children": [
             {
@@ -5749,7 +5778,7 @@
                 "last_commit": "2026-08-04T23:37:01Z",
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym",
-                "stars": 730
+                "stars": 738
               }
             }
           ],
@@ -5759,7 +5788,7 @@
             "last_commit": "2026-01-14T07:02:52Z",
             "owner": "uiuc-kang-lab",
             "repo": "cve-bench",
-            "stars": 270
+            "stars": 271
           }
         },
         {
@@ -5778,7 +5807,7 @@
         },
         {
           "node_type": "item",
-          "title": "NYU CTF Bench 🔬 — Dockerized CSAW CTF challenges for LLM-agent evaluation. (★ 169 · updated 2025-09-22)",
+          "title": "NYU CTF Bench 🔬 — Dockerized CSAW CTF challenges for LLM-agent evaluation. (★ 170 · updated 2025-09-22)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5787,7 +5816,7 @@
             "last_commit": "2025-09-22T19:46:03Z",
             "owner": "NYU-LLM-CTF",
             "repo": "NYU_CTF_Bench",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -5820,7 +5849,7 @@
                 "last_commit": "2026-08-10T22:08:15Z",
                 "owner": "SWE-agent",
                 "repo": "SWE-agent",
-                "stars": 20064
+                "stars": 20070
               }
             },
             {
@@ -5834,7 +5863,7 @@
                 "last_commit": "2026-08-10T22:08:15Z",
                 "owner": "SWE-agent",
                 "repo": "SWE-agent",
-                "stars": 20064
+                "stars": 20070
               }
             }
           ],
@@ -5849,7 +5878,7 @@
         },
         {
           "node_type": "item",
-          "title": "AIGoat 🟢🔬⚠️ — Local-first vulnerable LLM security playground with guided OWASP LLM Top 10 attack labs, CTF challenges, progressive defenses, and an Ollama-backed AI shopping-assistant target. — note: platform code is Apache-2.0, but training/challenge content is CC BY-NC-SA-4.0 and requires permission for commercial workshops. (★ 75 · updated 2026-04-24)",
+          "title": "AIGoat 🟢🔬⚠️ — Local-first vulnerable LLM security playground with guided OWASP LLM Top 10 attack labs, CTF challenges, progressive defenses, and an Ollama-backed AI shopping-assistant target. — note: platform code is Apache-2.0, but training/challenge content is CC BY-NC-SA-4.0 and requires permission for commercial workshops. (★ 76 · updated 2026-04-24)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5858,7 +5887,7 @@
             "last_commit": "2026-04-24T10:40:12Z",
             "owner": "AISecurityConsortium",
             "repo": "AIGoat",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -5877,7 +5906,7 @@
                 "last_commit": "2025-09-22T19:46:03Z",
                 "owner": "NYU-LLM-CTF",
                 "repo": "NYU_CTF_Bench",
-                "stars": 169
+                "stars": 170
               }
             }
           ],
@@ -5898,7 +5927,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "osintgpt 🟢⚠️ — OpenAI embeddings + Qdrant over OSINT corpora. (★ 524 · updated 2023-12-11)",
+          "title": "osintgpt 🟢⚠️ — OpenAI embeddings + Qdrant over OSINT corpora. (★ 525 · updated 2023-12-11)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5912,7 +5941,7 @@
         },
         {
           "node_type": "item",
-          "title": "llm_osint 🟢🔬 — Proof-of-concept LLM OSINT framework using knowledge and web agents for internet research workflows. (★ 316 · updated 2024-11-02)",
+          "title": "llm_osint 🟢🔬 — Proof-of-concept LLM OSINT framework using knowledge and web agents for internet research workflows. (★ 317 · updated 2024-11-02)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5937,17 +5966,17 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T02:23:40Z",
+                "last_commit": "2026-08-17T09:25:45Z",
                 "owner": "Tencent",
                 "repo": "AI-Infra-Guard",
-                "stars": 4513
+                "stars": 4514
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T15:39:57Z",
+            "last_commit": "2026-08-17T19:00:12Z",
             "owner": "praetorian-inc",
             "repo": "julius",
             "stars": 208
@@ -5976,7 +6005,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:09:15Z",
+            "last_commit": "2026-08-17T18:16:40Z",
             "owner": "cynative",
             "repo": "cynative",
             "stars": 190
@@ -6119,7 +6148,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "awesome-threat-intelligence — Classic CTI list (pairs with the AI-CTI section). (★ 10,538 · updated 2026-05-31)",
+          "title": "awesome-threat-intelligence — Classic CTI list (pairs with the AI-CTI section). (★ 10,541 · updated 2026-05-31)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6128,12 +6157,12 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10538
+            "stars": 10541
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-ml-for-cybersecurity — Large classic list of machine-learning-for-cybersecurity resources (stale-ish but still useful). (★ 9,285 · updated 2024-04-11)",
+          "title": "awesome-ml-for-cybersecurity — Large classic list of machine-learning-for-cybersecurity resources (stale-ish but still useful). (★ 9,290 · updated 2024-04-11)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6142,7 +6171,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9286
+            "stars": 9291
           }
         },
         {
@@ -6161,7 +6190,7 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome-LLM4Cybersecurity — 600+ papers on LLMs for cybersecurity. (★ 1,746 · updated 2026-07-08)",
+          "title": "Awesome-LLM4Cybersecurity — 600+ papers on LLMs for cybersecurity. (★ 1,748 · updated 2026-07-08)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6170,7 +6199,7 @@
             "last_commit": "2026-07-08T12:32:13Z",
             "owner": "tmylla",
             "repo": "Awesome-LLM4Cybersecurity",
-            "stars": 1747
+            "stars": 1748
           }
         },
         {
@@ -6189,21 +6218,21 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-ai-security — AI security resources. (★ 1,386 · updated 2026-08-16)",
+          "title": "awesome-ai-security — AI security resources. (★ 1,397 · updated 2026-08-16)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T09:25:05Z",
+            "last_commit": "2026-08-16T19:32:28Z",
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1389
+            "stars": 1397
           }
         },
         {
           "node_type": "item",
-          "title": "Awesome-LLMs-for-Vulnerability-Detection — Focused, continuously updated index of LLM-based software-vulnerability detection research across function, repository, agentic, and smart-contract analysis, including datasets, benchmarks, and surveys. (★ 1,237 · updated 2026-08-16)",
+          "title": "Awesome-LLMs-for-Vulnerability-Detection — Focused, continuously updated index of LLM-based software-vulnerability detection research across function, repository, agentic, and smart-contract analysis, including datasets, benchmarks, and surveys. (★ 1,239 · updated 2026-08-16)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6212,7 +6241,7 @@
             "last_commit": "2026-08-16T00:32:39Z",
             "owner": "huhusmang",
             "repo": "Awesome-LLMs-for-Vulnerability-Detection",
-            "stars": 1238
+            "stars": 1239
           }
         },
         {
@@ -6231,7 +6260,7 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-mcp-security — MCP security resources, tools, writeups, and server/client risk references. (★ 728 · updated 2026-03-03)",
+          "title": "awesome-mcp-security — MCP security resources, tools, writeups, and server/client risk references. (★ 729 · updated 2026-03-03)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6240,12 +6269,12 @@
             "last_commit": "2026-03-03T20:29:51Z",
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
-            "stars": 728
+            "stars": 729
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-gpt-security — GPT/LLM security tools and cases. (★ 668 · updated 2026-07-24)",
+          "title": "awesome-gpt-security — GPT/LLM security tools and cases. (★ 669 · updated 2026-07-24)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6254,7 +6283,7 @@
             "last_commit": "2026-07-24T06:18:46Z",
             "owner": "cckuailong",
             "repo": "awesome-gpt-security",
-            "stars": 668
+            "stars": 670
           }
         },
         {
@@ -6315,7 +6344,7 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome-Offensive-AI-Agentic-Landscape — Offensive AI-agent landscape covering open-source pentest/red-team agents, offensive/security-specialized models, papers, benchmarks, and commercial tools. (★ 211 · updated 2026-07-20)",
+          "title": "Awesome-Offensive-AI-Agentic-Landscape — Offensive AI-agent landscape covering open-source pentest/red-team agents, offensive/security-specialized models, papers, benchmarks, and commercial tools. (★ 214 · updated 2026-07-20)",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6324,7 +6353,7 @@
             "last_commit": "2026-07-20T06:05:10Z",
             "owner": "Yeti-791",
             "repo": "Awesome-Offensive-AI-Agentic-Landscape",
-            "stars": 212
+            "stars": 214
           }
         },
         {
@@ -6391,10 +6420,24 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T12:43:48Z",
+            "last_commit": "2026-08-17T13:50:21Z",
             "owner": "webpro255",
             "repo": "awesome-ai-agent-attacks",
             "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-agents-security — Focused map of AI-agent security resources across runtime protection, red-teaming scanners, static analysis, sandboxing, guardrails, benchmarks, and identity. (★ 63 · updated 2026-06-12)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-12T10:52:03Z",
+            "owner": "ProjectRecon",
+            "repo": "awesome-ai-agents-security",
+            "stars": 64
           }
         },
         {
@@ -6413,20 +6456,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-ai-agents-security — Focused map of AI-agent security resources across runtime protection, red-teaming scanners, static analysis, sandboxing, guardrails, benchmarks, and identity. (★ 63 · updated 2026-06-12)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-12T10:52:03Z",
-            "owner": "ProjectRecon",
-            "repo": "awesome-ai-agents-security",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-genai-cyberhub — GenAI-driven cybersecurity resources. (★ 54 · updated 2026-08-07)",
           "description": null,
           "children": [],
@@ -6441,13 +6470,13 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-ai-security — For pentesters, bug hunters, and researchers. (★ 39 · updated 2026-08-10)",
+          "title": "awesome-ai-security — For pentesters, bug hunters, and researchers. (★ 39 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T16:12:11Z",
+            "last_commit": "2026-08-17T10:10:48Z",
             "owner": "gmh5225",
             "repo": "awesome-ai-security",
             "stars": 39
@@ -6469,13 +6498,13 @@
         },
         {
           "node_type": "item",
-          "title": "AI Security Repository Radar — Daily-updated AI/LLM/MCP/RAG security repository radar with category, license, stars, and quality/relevance metadata. (★ 5 · updated 2026-08-16)",
+          "title": "AI Security Repository Radar — Daily-updated AI/LLM/MCP/RAG security repository radar with category, license, stars, and quality/relevance metadata. (★ 5 · updated 2026-08-17)",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T08:45:22Z",
+            "last_commit": "2026-08-17T09:00:22Z",
             "owner": "Zero0x00",
             "repo": "Ai-Security-radar-",
             "stars": 5
@@ -6496,9 +6525,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:56:23.823Z",
+    "last_updated": "2026-08-17T19:07:53.204Z",
     "original_repository": "scadastrangelove/awesome-ai-security-tools",
-    "original_repository_sha": "9cddecfae6ef754272ff8126d45f193dac309dcc",
+    "original_repository_sha": "e585d75db996b8e2ca9d87f627f71f8add56f97f",
     "enhanced_repository": "enhansome/enhansome-ai-security-tools",
     "enhanced_repository_description": null,
     "title": "Awesome AI Security Tools with stars"
